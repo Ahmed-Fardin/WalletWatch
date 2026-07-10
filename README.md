@@ -248,7 +248,6 @@ Additional project documentation is available inside the **docs** folder.
 
 Included documents:
 
-- Dataset Plan
 - Review Collection Plan
 - Review Sources
 - Transaction Rules
