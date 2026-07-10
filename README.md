@@ -78,7 +78,6 @@ Explores transaction behavior through payment methods, wallet revenue, cashback 
 
 ## Libraries
 - Pandas
-- NumPy
 
 ## Version Control
 - Git
