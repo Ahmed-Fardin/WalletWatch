@@ -230,7 +230,7 @@ Customer reviews were collected from publicly available sources.
 ### Review Sources
 
 - Google Play Store
-- Apple App Store
+- Apple App Store *(Planned for Version 2. Integration was not completed due to compatibility limitations with the available Python package. See `docs/review_collection_plan.md` for implementation details.)*
 
 ### Company Information
 
@@ -238,7 +238,7 @@ Customer reviews were collected from publicly available sources.
 
 ### Transaction Data
 
-Synthetic transaction data generated using Python for educational and portfolio purposes.
+Synthetic transaction data generated using Python for portfolio purpose.
 
 ---
 
