@@ -28,7 +28,9 @@ WALLETS = [
     "BigPay",
     "MAE",
     "CIMB_OCTO",
-    "Setel"
+    "Setel",
+    "GrabPay",
+    "ShopeePay"
 ]
 
 APP_IDS = {
@@ -37,9 +39,10 @@ APP_IDS = {
     "BigPay": 3,
     "MAE": 4,
     "CIMB_OCTO": 5,
-    "Setel": 6
+    "Setel": 6,
+    "GrabPay": 7,
+    "ShopeePay": 8
 }
-
 review_user_counter = 1
 
 review_user_mapping = {}
@@ -79,6 +82,32 @@ for wallet in WALLETS:
         review_user_ids.append(review_user_mapping[username])
 
     df["review_user_id"] = review_user_ids
+
+
+
+    # ==========================================
+# Keep only PostgreSQL columns
+# ==========================================
+
+    df = df[
+        [
+            "review_user_id",
+            "app_id",
+            "app_version",
+            "rating",
+            "review_text",
+            "review_source",
+            "language",
+            "sentiment",
+            "complaint_category",
+            "developer_reply",
+            "thumbs_up_count",
+            "review_date",
+            "developer_reply_date",
+            "positive_review",
+            "negative_review"
+        ]
+    ]
 
 
     output_file = f"Data/Import/{wallet.lower()}_reviews_import.csv"

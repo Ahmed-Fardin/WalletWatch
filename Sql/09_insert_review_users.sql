@@ -1,6 +1,15 @@
 -- ==========================================
--- INSERT REVIEW USERS
+-- WalletWatch
+-- Import Review Users
 -- ==========================================
 
-SELECT *
-FROM review_users;
+TRUNCATE TABLE review_users RESTART IDENTITY CASCADE;
+
+COPY review_users
+(
+    review_user_id,
+    username
+)
+FROM 'E:/Projects/Wallet-Watch/Data/Import/review_users.csv'
+DELIMITER ','
+CSV HEADER;

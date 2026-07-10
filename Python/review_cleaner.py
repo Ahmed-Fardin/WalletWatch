@@ -1,3 +1,22 @@
+"""
+WalletWatch
+
+Purpose:
+Clean raw review datasets by removing unnecessary columns,
+renaming fields, standardizing formats, and preparing data
+for PostgreSQL import.
+
+Input:
+Data/Raw/
+
+Output:
+Data/Clean/
+
+Author:
+Fardin Ahmed
+"""
+
+
 import pandas as pd
 
 # ==========================================
@@ -10,7 +29,9 @@ WALLETS = [
     "BigPay",
     "MAE",
     "CIMB_OCTO",
-    "Setel"
+    "Setel",
+    "GrabPay",
+    "ShopeePay"
 ]
 
 positive_keywords = [
@@ -39,6 +60,50 @@ negative_keywords = [
     "refund"
 ]
 
+
+# ==========================================
+# GRABPAY FILTERING
+# ==========================================
+
+grab_exclude_keywords = [
+    "grabfood",
+    "grab food",
+    "grabcar",
+    "grab car",
+    "grabexpress",
+    "grab express",
+    "grabmart",
+    "grab mart",
+    "restaurant",
+    "driver",
+    "ride",
+    "delivery",
+    "parcel",
+    "food order",
+    "merchant delivery"
+]
+
+# ==========================================
+# SHOPEEPAY FILTERING
+# ==========================================
+shopee_exclude_keywords = [
+    "seller",
+    "shopping",
+    "parcel",
+    "delivery",
+    "shipping",
+    "product",
+    "products",
+    "order",
+    "orders",
+    "shop",
+    "live stream",
+    "shopee live",
+    "courier",
+    "logistics",
+    "wishlist"
+]
+
 # ==========================================
 # CLEAN EACH WALLET
 # ==========================================
@@ -59,18 +124,44 @@ for wallet in WALLETS:
 
 
     df["content"] = df["content"].fillna("")
+    df=df[df["content"].str.strip() != ""]
+
+
+
+    # -----------------------------
+# GrabPay Filtering
+# -----------------------------
+
+    if wallet == "GrabPay":
+
+     df = df[
+        ~df["content"].str.lower().apply(
+            lambda x: any(word in x for word in grab_exclude_keywords)
+        )
+    ]
+
+# -----------------------------
+# ShopeePay Filtering
+# -----------------------------
+
+    if wallet == "ShopeePay":
+
+     df = df[
+        ~df["content"].str.lower().apply(
+            lambda x: any(word in x for word in shopee_exclude_keywords)
+        )
+    ]
 
     # -----------------------------
     # Dataset Information
     # -----------------------------
 
-    print(df.head())
+    
 
     print("\nRows:", len(df))
     print("Columns:", len(df.columns))
 
-    print("\nColumn Names:")
-    print(df.columns)
+        
 
     print("\nMissing Values:")
     print(df.isnull().sum())
@@ -80,9 +171,6 @@ for wallet in WALLETS:
 
     print("\nEmpty Review Text:")
     print((df["content"].str.strip() == "").sum())
-
-    print("\nRating Distribution:")
-    print(df["score"].value_counts().sort_index())
 
     # -----------------------------
     # Cleaning
@@ -116,11 +204,7 @@ for wallet in WALLETS:
     # Statistics
     # -----------------------------
 
-    print("\nUpdated Columns:")
-    print(df.columns)
-
-    print("\nData Types:")
-    print(df.dtypes)
+    
 
     print("\nAverage Rating:")
     print(round(df["rating"].mean(), 2))
@@ -132,19 +216,9 @@ for wallet in WALLETS:
 
     longest_review = df.loc[df["review_length"].idxmax()]
 
-    print("\nLongest Review:")
-    print(longest_review["review_text"])
-
-    shortest_review = df.loc[df["review_length"].idxmin()]
-
-    print("\nShortest Review:")
-    print(shortest_review["review_text"])
-
     rating_counts = df["rating"].value_counts().sort_index()
 
-    print("\nRating Counts:")
-    print(rating_counts)
-
+   
     # -----------------------------
     # Sentiment Flags
     # -----------------------------
@@ -168,6 +242,9 @@ for wallet in WALLETS:
     # -----------------------------
 
     output_file = f"Data/Clean/{wallet.lower()}_google_play_clean.csv"
+ 
+    print("Saving:", output_file)
+    print("Rows to save:", len(df))
 
     df.to_csv(
         output_file,
@@ -175,5 +252,9 @@ for wallet in WALLETS:
         encoding="utf-8-sig"
     )
 
-    print(f"\n✅ {wallet} cleaned successfully!")
-    print(f"Saved to: {output_file}\n")
+
+print("\n====================================")
+print("All wallets cleaned successfully!")
+print("====================================")
+
+print(f"Saved to: {output_file}\n")
