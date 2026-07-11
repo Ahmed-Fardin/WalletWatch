@@ -239,6 +239,7 @@ Customer reviews were collected from publicly available sources.
 ### Transaction Data
 
 Synthetic transaction data generated using Python for portfolio purpose.
+.
 
 ---
 
@@ -248,13 +249,6 @@ Additional project documentation is available inside the **docs** folder.
 
 Included documents:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 72214e9 (Update README documentation)
-=======
->>>>>>> 0bd8f63 (Update review dataset and dashboard improvements)
 - Review Collection Plan
 - Review Sources
 - Transaction Rules
@@ -305,3 +299,4 @@ Data Analytics Portfolio Project
 ---
 
 ## ⭐ If you found this project interesting, feel free to star the repository and explore the code.
+

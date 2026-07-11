@@ -2,6 +2,13 @@
 -- WalletWatch
 -- Import All Review CSV Files
 -- ==========================================
+-- ==========================================
+-- Remove existing reviews
+-- ==========================================
+
+TRUNCATE TABLE reviews RESTART IDENTITY;
+
+
 
 COPY reviews
 (

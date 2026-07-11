@@ -1,3 +1,20 @@
+"""
+WalletWatch
+
+Purpose:
+Download Google Play reviews for supported Malaysian e-wallet apps.
+
+Input:
+Google Play Store
+
+Output:
+CSV files saved in Data/Raw/
+
+Author:
+Fardin Ahmed
+"""
+
+
 from google_play_scraper import reviews
 import pandas as pd
 import os

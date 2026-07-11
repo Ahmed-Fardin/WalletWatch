@@ -1,3 +1,19 @@
+"""
+WalletWatch
+
+Purpose:
+Generate realistic sample transaction data for the WalletWatch database.
+
+Input:
+Wallet and merchant information
+
+Output:
+Transaction CSV / SQL insert data
+
+Author:
+Fardin Ahmed
+"""
+
 import random
 from datetime import datetime, timedelta
 

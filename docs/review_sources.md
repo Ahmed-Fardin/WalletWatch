@@ -8,10 +8,6 @@ Official Websites
 
 News Articles (feature announcements)
 
-Official Blogs
-
-NOT USED
-
 Reddit
 
 Random forums
