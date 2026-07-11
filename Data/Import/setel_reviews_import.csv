@@ -1,501 +1,501 @@
 ﻿review_user_id,app_id,app_version,rating,review_text,review_source,language,sentiment,complaint_category,developer_reply,thumbs_up_count,review_date,developer_reply_date,positive_review,negative_review
-1,6,1.203.3,5,good,Google Play,English,Positive,General,False,0,2026-07-05 19:32:25,,True,False
-2,6,1.203.3,5,pekerja terbaik..tqvm,Google Play,English,Neutral,General,False,0,2026-07-05 09:47:45,,False,False
-3,6,,1,close app,Google Play,English,Neutral,General,False,0,2026-07-04 17:36:49,,False,False
-4,6,,5,nice,Google Play,English,Neutral,General,False,0,2026-07-04 10:05:41,,False,False
-5,6,1.203.3,1,"keep asking to enable location,location already enabled",Google Play,English,Neutral,General,False,0,2026-07-04 09:23:02,,False,False
-6,6,,5,mmg fuction habis appsni. senang isi minyak budi tanpa tunjuk ic,Google Play,English,Neutral,General,False,0,2026-07-03 20:38:25,,False,False
-7,6,1.203.3,3,sometimes top up a bit slow,Google Play,English,Negative,General,False,0,2026-07-03 18:46:43,,False,True
-8,6,1.203.3,5,easy recommended 👌🏻,Google Play,English,Positive,General,False,0,2026-07-03 11:01:11,,True,False
-9,6,1.203.3,5,"Great app! The interface is simple and easy to navigate. Fuel payments are quick, and I like being able to track my transactions and earn rewards in one place. It has made refuelling much more convenient. Highly recommended!",Google Play,English,Positive,General,False,0,2026-07-03 08:32:01,,True,False
-10,6,1.202.1,5,senang untuk guna,Google Play,English,Neutral,General,False,0,2026-07-03 06:46:54,,False,False
-11,6,1.136.3,1,"a ""cool down period"" security update that no one asked for except maybe your insecure ahh mom",Google Play,English,Positive,General,False,0,2026-07-02 21:47:58,,True,False
-12,6,1.203.3,5,easy n fast.. great 👍👍,Google Play,English,Positive,General,False,0,2026-07-02 19:43:11,,True,False
-13,6,1.203.3,5,More easy and more faster,Google Play,English,Positive,General,False,0,2026-07-02 14:30:19,,True,False
-14,6,1.203.3,5,laju servis,Google Play,English,Neutral,General,False,0,2026-07-02 05:55:08,,False,False
-15,6,,5,gooddddddddd,Google Play,English,Positive,General,False,0,2026-07-01 22:02:59,,True,False
-16,6,1.203.2,4,Auto top up still unavailable,Google Play,English,Neutral,General,True,1,2026-07-01 20:40:28,2024-02-18 20:55:07,False,False
-17,6,1.203.3,5,"easy to use, user friendly",Google Play,English,Positive,General,False,0,2026-07-01 20:11:59,,True,False
-18,6,1.203.3,5,Good and Excellent 👍,Google Play,English,Positive,General,False,0,2026-07-01 09:24:20,,True,False
-19,6,1.203.3,1,"Kira-kira 700,000 pemilik kenderaan persendirian di seluruh negara bakal menikmati diesel bersubsidi pada harga RM2.10 seliter menerusi pelaksanaan Budi Madani Diesel (Budi Diesel) bermula tengah malam ini. Namun di setel harga budi diesel Rm2.15 seliter. Setel ada masalah?!",Google Play,English,Neutral,General,False,0,2026-07-01 00:21:16,,False,False
-20,6,1.203.3,5,Easy to used.,Google Play,English,Positive,General,False,0,2026-06-30 23:38:51,,True,False
-21,6,1.203.2,5,sangat mudah..mata ganjaran pun banyak..nak redeem pun senang..,Google Play,English,Neutral,General,False,0,2026-06-30 23:15:14,,False,False
-22,6,1.203.3,1,"ada ic saja x ckup masih org asing kna ada lesen bru boleh isi budi, xdk lesen org asing siak😂😂😂",Google Play,English,Neutral,General,False,0,2026-06-30 21:52:19,,False,False
-23,6,1.203.2,5,easy to use and refill the petrol now!!,Google Play,English,Positive,General,False,0,2026-06-30 18:25:19,,True,False
-24,6,1.203.2,1,troublesome to use for senior citizen.,Google Play,English,Neutral,General,False,0,2026-06-30 13:48:26,,False,False
-25,6,,4,superb,Google Play,English,Neutral,General,False,0,2026-06-30 12:26:45,,False,False
-26,6,1.203.2,5,"memudahkan,cepat dan tidak perlu beratur panjang lg lepas guna apps Setel ni.. point dpt tukar ke duit lg tu",Google Play,English,Neutral,General,False,0,2026-06-30 11:17:27,,False,False
-27,6,1.203.2,1,"Why is my Mesra Points redemption restricted? I have 3 vehicles registered under my account. Sometimes I forget to switch to the correct plate number before refueling — does this cause the restriction? Please explain this simply and share the proper guidelines or compliance rules that apply. If this issue cannot be resolved, I will need to switch to Petron instead.",Google Play,English,Negative,General,True,0,2026-06-30 09:49:07,2026-06-30 13:50:24,False,True
-28,6,1.203.2,5,friendly,Google Play,English,Neutral,General,False,0,2026-06-30 08:49:41,,False,False
-29,6,1.203.2,5,its convenient and easier to use,Google Play,English,Positive,General,False,0,2026-06-30 08:30:21,,True,False
-30,6,1.170.1,5,Jom join refer dpt rm3,Google Play,English,Neutral,General,False,0,2026-06-30 08:14:48,,False,False
-31,6,1.203.2,5,"Sebelum isi minyak top up di shopee, lepas tu top up di setel.. double cashback.. jimat..",Google Play,English,Neutral,General,False,0,2026-06-30 07:09:24,,False,False
-32,6,1.203.2,5,bagus,Google Play,English,Neutral,General,False,0,2026-06-29 22:37:41,,False,False
-33,6,1.203.0,5,"Good app right know because it's link with budi subsidi can manage and monitor by phone, got",Google Play,English,Positive,General,False,0,2026-06-29 22:08:32,,True,False
-34,6,1.203.2,5,Okey,Google Play,English,Neutral,General,False,0,2026-06-29 09:00:47,,False,False
-35,6,1.203.2,2,keep logging out every time opening the app. Before this the app really make refuelling easier,Google Play,English,Neutral,General,False,0,2026-06-28 23:14:12,,False,False
-36,6,1.203.0,5,Jimat masa Alhamdulillah 👍🏼,Google Play,English,Neutral,General,False,0,2026-06-28 21:24:10,,False,False
-37,6,1.202.1,5,wow,Google Play,English,Neutral,General,False,0,2026-06-28 21:16:52,,False,False
-38,6,1.203.1,1,3rd grade app,Google Play,English,Neutral,General,False,0,2026-06-28 16:55:17,,False,False
-39,6,1.203.2,5,This is great!!! Easy to use!!!!,Google Play,English,Positive,General,False,0,2026-06-28 11:18:58,,True,False
-40,6,1.203.2,5,love to use setel suggested by my lovely wife. Thank you to my wife.,Google Play,English,Positive,General,False,0,2026-06-28 10:39:23,,True,False
-41,6,1.203.2,5,"My Details Rating: 90% — very good app, especially for PETRONAS fuel, BUDI MADANI, and quick payments",Google Play,English,Positive,General,False,0,2026-06-27 16:05:23,,True,False
-42,6,1.203.2,5,very good,Google Play,English,Positive,General,False,0,2026-06-27 13:35:38,,True,False
-43,6,1.203.1,5,Super easy. Super super easy.,Google Play,English,Positive,General,False,0,2026-06-27 10:39:44,,True,False
-44,6,1.203.2,1,"The app fail to check automatically my BUDI RON95 eligibility. Despite my available balance was 154L, it applies the pump price at RM3.47 instead of RM1.99. When raised the issue to Setel Call Center. They said cannot do much about it and blame user bcos not familiar enough with the app operation process. Had experience similar issue before this. Seems the bug is left unattended. Regret that my entitlement for the BUDI RON95 was taken from me becos of the app own weaknesses and failure.",Google Play,English,Negative,General,True,0,2026-06-27 07:28:18,2026-06-27 12:27:23,False,True
-45,6,1.203.1,5,easy quick cashless transparent,Google Play,English,Positive,General,False,0,2026-06-27 06:50:47,,True,False
-46,6,1.203.2,5,good and enjoy...,Google Play,English,Positive,General,False,0,2026-06-27 06:49:18,,True,False
-47,6,1.202.1,5,Senang n cepat,Google Play,English,Neutral,General,False,0,2026-06-26 20:56:04,,False,False
-48,6,1.203.2,4,What would make this app perfect? Integrate it with Android Auto and Carplay! Refuel with a tap on the car screen instead of having to rummage through your bag or pocket looking for the phone.,Google Play,English,Neutral,General,False,0,2026-06-26 18:46:45,,False,False
-49,6,1.202.1,5,bagus Dan cepat,Google Play,English,Neutral,General,False,0,2026-06-26 16:15:01,,False,False
-50,6,1.202.1,5,Terbaik dari ladang xpayah nak g kaunter...teruskan petronas..👍👍👍,Google Play,English,Neutral,General,False,0,2026-06-26 15:06:48,,False,False
-51,6,1.203.2,1,Memang problem setel. Aku deposit rm40 tak masuk pastu error tapi deposit rm3 masuk pulak. Dah banyak kali call customer service tapi tak dapat. Semua no customer service tak boleh pakai. Hantar email untuk buat aduan pun error. Bodoh betul!,Google Play,English,Negative,General,True,0,2026-06-26 14:37:51,2026-06-27 12:29:07,False,True
-52,6,,1,tak bleh nk daftar trus on je cam ne ye,Google Play,English,Neutral,General,True,0,2026-06-26 12:59:49,2026-06-27 12:29:59,False,False
-53,6,1.203.1,5,Very Good👍,Google Play,English,Positive,General,False,0,2026-06-25 20:39:58,,True,False
-54,6,1.203.0,5,easy use and get something good,Google Play,English,Positive,General,False,0,2026-06-25 09:00:10,,True,False
-55,6,1.202.1,5,Very convenient,Google Play,English,Positive,General,False,0,2026-06-24 10:13:40,,True,False
-56,6,1.202.1,5,Convenient and easy to use.,Google Play,English,Positive,General,False,0,2026-06-23 22:24:15,,True,False
-57,6,1.203.0,5,okk lahh,Google Play,English,Neutral,General,False,0,2026-06-23 21:35:44,,False,False
-58,6,1.202.1,1,mata ganjaran dibekukan,Google Play,English,Neutral,General,True,0,2026-06-23 08:33:09,2026-06-27 12:29:42,False,False
-59,6,1.202.1,5,👍🏻,Google Play,English,Neutral,General,False,0,2026-06-23 07:31:18,,False,False
-60,6,1.202.1,5,easy to use. setel.,Google Play,English,Positive,General,False,0,2026-06-22 22:00:20,,True,False
-61,6,1.202.1,5,Sangat bagus gunakan Setel. Mudahkan urusan.,Google Play,English,Neutral,General,False,0,2026-06-22 20:38:34,,False,False
-62,6,1.202.1,5,efficient and user friendly....,Google Play,English,Neutral,General,False,0,2026-06-22 18:59:07,,False,False
-63,6,1.202.1,1,cant even register,Google Play,English,Neutral,General,True,0,2026-06-22 15:01:32,2026-06-22 17:54:37,False,False
-64,6,1.203.0,5,1 minit. so fast. thank you setel,Google Play,English,Positive,General,False,0,2026-06-22 12:32:47,,True,False
-65,6,1.202.1,5,terbaik,Google Play,English,Neutral,General,False,0,2026-06-21 10:51:57,,False,False
-66,6,1.202.1,5,bagus app ni,Google Play,English,Neutral,General,False,0,2026-06-21 09:43:24,,False,False
-67,6,1.202.1,5,Steady,Google Play,English,Neutral,General,False,0,2026-06-20 15:03:28,,False,False
-68,6,1.202.1,5,it's very convenient!! Simple n easy,Google Play,English,Positive,General,False,0,2026-06-20 03:55:16,,True,False
-69,6,1.202.1,5,excellent,Google Play,English,Positive,General,False,0,2026-06-20 03:33:14,,True,False
-70,6,1.173.0,2,"paling menyusahkan.. sudah top up malah tidak dapat membeli minyak, akaun di lock, tidak ada jalan penyelesaia..",Google Play,English,Neutral,General,True,0,2026-06-19 23:36:07,2026-06-22 17:53:24,False,False
-71,6,1.202.1,2,need to have some improvement,Google Play,English,Neutral,General,True,0,2026-06-19 16:20:55,2026-06-22 17:51:48,False,False
-72,6,1.201.1,5,iflix is a good entertainment application with enjoyable shows and movies,Google Play,English,Positive,General,False,0,2026-06-19 12:26:23,,True,False
-73,6,1.202.1,5,very good,Google Play,English,Positive,General,False,0,2026-06-18 11:22:30,,True,False
-74,6,1.198.0,5,Mantap,Google Play,English,Neutral,General,False,0,2026-06-18 10:09:24,,False,False
-75,6,1.202.1,5,thanks. very humble.,Google Play,English,Neutral,General,False,0,2026-06-18 02:14:15,,False,False
-76,6,1.202.1,5,Good,Google Play,English,Positive,General,False,0,2026-06-17 20:22:28,,True,False
-77,6,1.202.1,5,Senang nak allocate duit minyak setiap bulan,Google Play,English,Neutral,General,False,0,2026-06-16 19:21:04,,False,False
-78,6,1.201.1,5,"easy to use, and very convenient. bravo to the developer!",Google Play,English,Positive,General,False,0,2026-06-15 16:22:23,,True,False
-79,6,1.202.1,1,lembab nk update selepas topup,Google Play,English,Neutral,General,True,0,2026-06-15 14:08:17,2026-06-22 17:50:27,False,False
-80,6,,5,nice,Google Play,English,Neutral,General,False,0,2026-06-14 20:21:29,,False,False
-81,6,1.201.1,5,good apps,Google Play,English,Positive,General,False,0,2026-06-14 10:09:06,,True,False
-82,6,1.201.1,5,Most convenient petrol app ever!!,Google Play,English,Positive,General,False,0,2026-06-14 08:53:27,,True,False
-83,6,1.202.1,5,very easy to use.,Google Play,English,Positive,General,False,0,2026-06-13 20:45:56,,True,False
-84,6,,5,Fast and reliable,Google Play,English,Positive,General,False,0,2026-06-13 16:19:55,,True,False
-85,6,1.201.1,5,mudah Dan cepat,Google Play,English,Neutral,General,False,0,2026-06-13 15:26:02,,False,False
-86,6,1.201.1,5,"convenient,no need to walk to the counter.",Google Play,English,Positive,General,False,0,2026-06-12 21:06:19,,True,False
-87,6,,5,Great apps !,Google Play,English,Positive,General,False,0,2026-06-12 18:04:42,,True,False
-88,6,1.202.1,5,"Aplikasi ini amat memudahkan pengguna, tanpa perlu pergi ke kaunter dan tidak mendedahkan kad pengenalan kepada orang lain. Bila2 masa dan dimana2 stesen petronas.",Google Play,English,Neutral,General,False,0,2026-06-12 13:10:17,,False,False
-89,6,1.201.1,5,mudah dan cpt bagus,Google Play,English,Neutral,General,False,0,2026-06-12 12:20:57,,False,False
-90,6,1.201.1,5,easy n 👍,Google Play,English,Positive,General,False,0,2026-06-11 16:03:28,,True,False
-91,6,,5,"I will use this app to pay bills if every month has cashback, definitely save a lot and big help for me if this app can provide cashback for paying bills. Really appreciate it if you are listening.",Google Play,English,Neutral,General,False,0,2026-06-11 14:39:41,,False,False
-92,6,1.196.1,5,Easy smooth,Google Play,English,Positive,General,False,0,2026-06-10 22:05:40,,True,False
-93,6,1.201.1,5,mudah utk isi minyak xperlu ke caunter,Google Play,English,Neutral,General,False,0,2026-06-10 17:48:28,,False,False
-94,6,1.201.1,5,Terbaik,Google Play,English,Neutral,General,False,0,2026-06-10 07:09:12,,False,False
-95,6,1.201.1,5,"Easy, hassle free to use",Google Play,English,Positive,General,False,0,2026-06-10 01:35:41,,True,False
-96,6,1.199.0,5,it so easy to use,Google Play,English,Positive,General,False,0,2026-06-09 19:06:45,,True,False
-97,6,1.201.1,5,Marvellous.. Leading the way,Google Play,English,Neutral,General,False,0,2026-06-09 18:37:55,,False,False
-98,6,1.201.1,1,"Account restricted for no reason. New account, restricted right after sign up. Cannot top up or make any payment. Customer support is AI that provide generic answers, and doesnt help. Never wanted to use this app, but forced to use by Kluang local council for parking. Dont understand why the street parking payment in Johor is so stupid. One state, multiple payment apps required for the multiple local councils. Unlike other states can just pay with TNG all in the same app. Please help improve, TQ",Google Play,English,Neutral,General,True,1,2026-06-09 16:09:13,2026-06-10 14:02:52,False,False
-99,6,1.201.1,5,ALHAMDULILLAH Semua Setel dengan SETEL.,Google Play,English,Neutral,General,False,0,2026-06-09 13:30:16,,False,False
-100,6,1.201.1,5,Mudahkan urusan pump minyak petrol,Google Play,English,Neutral,General,False,0,2026-06-09 12:26:38,,False,False
-101,6,1.201.1,5,good,Google Play,English,Positive,General,False,0,2026-06-08 23:57:08,,True,False
-102,6,1.201.1,5,one tap and everything settled!,Google Play,English,Neutral,General,False,0,2026-06-08 11:49:26,,False,False
-103,6,1.201.1,5,terbaik 10 tahun dh guna,Google Play,English,Neutral,General,False,0,2026-06-08 09:59:56,,False,False
-104,6,1.201.1,5,excellent 👍👍👍,Google Play,English,Positive,General,False,0,2026-06-08 08:57:27,,True,False
-105,6,1.201.1,5,Easy Peasy & Highly Recommendes,Google Play,English,Positive,General,False,0,2026-06-08 08:50:48,,True,False
-106,6,1.201.1,5,almost liked,Google Play,English,Neutral,General,False,0,2026-06-07 11:55:56,,False,False
-107,6,1.201.1,5,great apps ! good job 👍,Google Play,English,Positive,General,False,0,2026-06-07 10:47:51,,True,False
-108,6,1.201.1,5,Very Good,Google Play,English,Positive,General,False,0,2026-06-07 06:55:07,,True,False
-109,6,,5,"Setel has made refueling much easier and more convenient. No need to queue at the counter, and payments are quick and seamless. The app is easy to navigate, and I can easily track my fuel purchases and transaction history. Overall, a very useful app that saves time and improves the fueling experience. Highly recommended! 🚗⛽",Google Play,English,Positive,General,False,6,2026-06-06 19:05:35,,True,False
-110,6,1.201.1,5,easy to use especially for first time user :),Google Play,English,Positive,General,False,0,2026-06-06 12:28:23,,True,False
-111,6,,5,untung dan jimat masa,Google Play,English,Neutral,General,False,0,2026-06-06 00:26:12,,False,False
-112,6,1.200.0,5,convenient,Google Play,English,Positive,General,False,0,2026-06-05 19:01:51,,True,False
-113,6,1.201.1,5,Really helpful for a mom with kids alone,Google Play,English,Neutral,General,False,0,2026-06-05 08:09:19,,False,False
-114,6,1.201.1,5,"Bagus, tak payah pergi kaunter",Google Play,English,Neutral,General,False,0,2026-06-04 21:17:14,,False,False
-115,6,1.201.1,5,"For me, Settle is a good application. You can use it at any PETRONAS Petrol Station to purchase petrol. You have to transfer some money into the account before you can purchase & will be deducted from it. Just follow instructions. It will show you all the purchases recorded including your money and petrol balance under Budi95 or Budi Diesel.",Google Play,English,Positive,General,False,0,2026-06-04 09:03:44,,True,False
-116,6,1.201.1,5,"convenient, friendly user. good job! 👏🏻👍🏻",Google Play,English,Positive,General,False,0,2026-06-04 08:10:46,,True,False
-117,6,1.201.1,5,very easy,Google Play,English,Positive,General,False,0,2026-06-03 20:18:24,,True,False
-118,6,1.201.1,5,senang dan mudah,Google Play,English,Neutral,General,False,0,2026-06-03 18:30:42,,False,False
-119,6,1.201.1,5,Cepat dan mudah.,Google Play,English,Neutral,General,False,0,2026-06-03 12:03:29,,False,False
-120,6,1.201.1,5,Settel memang terrrbaik. Memudahkan saya untuk mengumpul poins dan mengisi minyak di Petronas. Terrrbaik.,Google Play,English,Neutral,General,False,0,2026-06-02 21:33:24,,False,False
-121,6,1.201.1,5,urusan mudah cepat dan pantas,Google Play,English,Neutral,General,False,0,2026-06-02 20:53:08,,False,False
-122,6,1.201.1,5,sangat memudahkan setel ni sejak dh tau cra gna saya hnya gunakan petronas utk isi mnyk..,Google Play,English,Neutral,General,False,0,2026-06-01 19:19:39,,False,False
-123,6,1.201.1,5,"Working great. It's more than just an app to refuel the petrol. Easy to access and redeem loyalty point. Good job, developer!",Google Play,English,Positive,General,False,1,2026-06-01 05:22:08,,True,False
-124,6,1.201.1,5,"Serius, dgn pengisian one tap, mudah giler 🤣🤣",Google Play,English,Neutral,General,False,0,2026-05-31 22:18:47,,False,False
-125,6,1.201.1,5,👍,Google Play,English,Neutral,General,False,0,2026-05-31 21:57:12,,False,False
-126,6,1.201.1,5,So convenient and easy to use...,Google Play,English,Positive,General,False,0,2026-05-30 21:58:10,,True,False
-127,6,1.201.1,5,very Convenient.,Google Play,English,Positive,General,False,0,2026-05-30 14:03:31,,True,False
-128,6,1.201.1,1,Sekarang dah kena charges 1% dah bila top up guna card credit maybank... baik x payah guna... baik guna kaunter ja...,Google Play,English,Neutral,General,True,0,2026-05-30 13:17:00,2026-06-10 14:03:19,False,False
-129,6,1.201.1,5,very convenient,Google Play,English,Positive,General,False,0,2026-05-30 10:57:59,,True,False
-130,6,1.201.1,5,cepat dan mudah 👍🥰,Google Play,English,Neutral,General,False,0,2026-05-30 09:29:47,,False,False
-131,6,1.201.1,1,"dekat tng senang verified account untuk budi . dekat sini menyusahkan betol , banyak kali ulang ,entag apa benda yang jadi problem sangat tah . menyusahkan betol",Google Play,English,Negative,General,True,0,2026-05-29 15:40:49,2026-06-10 14:03:31,False,True
-132,6,1.201.1,5,mantopp,Google Play,English,Neutral,General,False,0,2026-05-29 11:45:51,,False,False
-133,6,1.201.1,5,Easy and convenient. No hassle.,Google Play,English,Positive,General,False,1,2026-05-28 12:03:01,,True,False
-134,6,1.201.1,3,x pernah dapat pun 3x reward,Google Play,English,Neutral,General,True,0,2026-05-27 19:24:47,2026-06-10 14:04:19,False,False
-135,6,,5,easy and smart,Google Play,English,Positive,General,False,0,2026-05-27 19:09:07,,True,False
-136,6,1.201.1,5,mudah dan dipercayai,Google Play,English,Neutral,General,False,0,2026-05-27 16:46:23,,False,False
-137,6,1.201.1,5,Easy to use.,Google Play,English,Positive,General,False,0,2026-05-27 12:19:18,,True,False
-138,6,1.201.1,5,Best apps,Google Play,English,Positive,General,False,0,2026-05-27 08:04:49,,True,False
-139,6,1.201.1,1,"after new update, the app become slower to open and pay..",Google Play,English,Negative,General,True,0,2026-05-27 06:47:19,2026-06-10 14:04:31,False,True
-140,6,1.201.1,5,senang dan pantas,Google Play,English,Neutral,General,False,0,2026-05-26 22:05:46,,False,False
-141,6,1.201.1,5,amat memudahkan urusan harian,Google Play,English,Neutral,General,False,0,2026-05-26 15:18:25,,False,False
-142,6,1.201.1,5,so setel☺️,Google Play,English,Neutral,General,False,0,2026-05-25 22:58:19,,False,False
-143,6,1.201.1,5,very good 👍 TQ,Google Play,English,Positive,General,False,0,2026-05-25 22:32:15,,True,False
-144,6,1.201.1,5,for me setel app userfriendly then other app leceh kadang2,Google Play,English,Neutral,General,False,0,2026-05-25 21:44:48,,False,False
-145,6,,1,"paid for parking using setel, I think steel should prompt the user which vehicle to would need to be paid for, if there are more than one vehicle registered in the app.",Google Play,English,Neutral,General,True,0,2026-05-25 14:05:02,2026-06-10 14:04:37,False,False
-146,6,1.187.2,5,very convenient ...,Google Play,English,Positive,General,False,0,2026-05-22 14:22:42,,True,False
-147,6,1.201.1,5,"Convenient, powerful, user friendly,",Google Play,English,Positive,General,False,0,2026-05-22 12:58:37,,True,False
-148,6,1.200.0,5,terbaik... mempermudahkn segala urusan di petrol Pam ... mudah&lancar,Google Play,English,Neutral,General,False,0,2026-05-22 12:31:26,,False,False
-149,6,1.201.1,3,"The app is useful, but here is what I don't like which dropped my rating from 5 to 3. The fund is either a transferrable or non-transferrable. The one with the quickest reload can't be transferred to other account. This info is only prompted to me when I attempted to transfer. NOT when I'm reloading my fund. It should have been the other way around.",Google Play,English,Neutral,General,True,35,2026-05-22 11:09:33,2026-06-10 14:04:45,False,False
-150,6,1.199.0,1,jangan claim mesra reward ke voucher sebab cara claim voucher bila dh leret di kira dh guna walaupon cashier ckp tak boleh guna di situ.,Google Play,English,Neutral,General,True,0,2026-05-21 09:49:04,2026-06-10 14:05:37,False,False
-151,6,1.200.0,5,"easy use, no hassle, quick",Google Play,English,Positive,General,False,0,2026-05-19 22:51:43,,True,False
-152,6,1.200.0,1,"Bill payment show unable to load categories, please try again later, already clear cache and reinstall still same error",Google Play,English,Negative,General,True,0,2026-05-19 17:15:48,2026-06-10 14:05:43,False,True
-153,6,1.200.0,5,so easy..,Google Play,English,Positive,General,False,0,2026-05-19 12:42:46,,True,False
-154,6,1.200.0,1,I couldn't even do a verification for these apps. I have been trying so many times but the apps still have an error. Gonna uninstall in soon. mehh,Google Play,English,Negative,General,True,0,2026-05-19 09:32:25,2026-06-10 14:07:06,False,True
-155,6,1.200.0,4,mantap,Google Play,English,Neutral,General,False,0,2026-05-19 08:17:38,,False,False
-156,6,1.200.0,5,its the BEST,Google Play,English,Positive,General,False,0,2026-05-18 21:42:23,,True,False
-157,6,1.200.0,5,"until now, there are no other apps come close",Google Play,English,Neutral,General,False,0,2026-05-18 14:15:18,,False,False
-158,6,1.200.0,5,very easy no need everytime IC,Google Play,English,Positive,General,False,0,2026-05-18 08:25:07,,True,False
-159,6,1.199.0,5,easy to use. just got an issue. I need to unlink my old card. please assist,Google Play,English,Negative,General,False,1,2026-05-18 06:09:09,,True,True
-160,6,1.200.0,5,easy to refill fuel,Google Play,English,Positive,General,False,0,2026-05-17 23:02:06,,True,False
-161,6,1.200.0,5,Mudah... Klik saja terus boleh jalan kereta..,Google Play,English,Neutral,General,False,0,2026-05-17 22:02:44,,False,False
-162,6,1.194.1,5,bagusss... mantap... alhamdulillah...,Google Play,English,Neutral,General,False,0,2026-05-17 21:11:54,,False,False
-163,6,1.200.0,5,easy to use,Google Play,English,Positive,General,False,0,2026-05-17 21:07:41,,True,False
-164,6,1.200.0,5,love it..,Google Play,English,Positive,General,False,0,2026-05-17 13:52:53,,True,False
-165,6,1.198.0,5,manTOP,Google Play,English,Neutral,General,False,0,2026-05-17 10:15:00,,False,False
-166,6,1.199.0,5,"senang wehhh x yah beratur kat kaunter nak bawak IC bagai topup je siap², setel #setel",Google Play,English,Neutral,General,False,0,2026-05-16 19:03:09,,False,False
-167,6,1.200.0,1,Displays wrong Budi95 balance,Google Play,English,Neutral,General,True,0,2026-05-16 10:31:28,2026-06-10 14:35:08,False,False
-168,6,1.200.0,4,add tng as a topup option tq,Google Play,English,Neutral,General,False,0,2026-05-16 06:54:01,,False,False
-169,6,1.199.0,5,memudahkan proses mengisi minyak,Google Play,English,Neutral,General,False,0,2026-05-15 21:57:10,,False,False
-170,6,1.200.0,5,mudah n senang,Google Play,English,Neutral,General,False,0,2026-05-15 14:56:37,,False,False
-171,6,1.200.0,5,"First time guna SETEL, MUDAH SANGAT DENGAN SETEL... I LOVE PETRONAS DGN WUJUDNYA APPS SETEL NI.. RUGI SELAMA NI TAK GUNA SETEL..",Google Play,English,Positive,General,False,0,2026-05-15 12:55:35,,True,False
-172,6,1.200.0,5,memudahkan kerja. jimat masa.,Google Play,English,Neutral,General,False,0,2026-05-15 12:48:39,,False,False
-173,6,1.200.0,5,Fast n efficient 👍,Google Play,English,Positive,General,False,0,2026-05-15 12:04:21,,True,False
-174,6,1.199.0,5,very good,Google Play,English,Positive,General,False,0,2026-05-15 09:55:20,,True,False
-175,6,1.199.0,5,easy to use,Google Play,English,Positive,General,False,0,2026-05-13 20:11:18,,True,False
-176,6,1.199.0,5,easy to use and redeem points,Google Play,English,Positive,General,False,1,2026-05-13 20:04:27,,True,False
-177,6,1.196.1,5,good aps easier to use fill and payment,Google Play,English,Positive,General,False,1,2026-05-13 19:45:43,,True,False
-178,6,1.200.0,5,harus kah kena ada lesen,Google Play,English,Neutral,General,False,0,2026-05-13 18:41:09,,False,False
-179,6,1.199.0,5,great apps,Google Play,English,Positive,General,False,0,2026-05-13 17:58:22,,True,False
-180,6,1.199.0,5,easyyyy,Google Play,English,Positive,General,False,0,2026-05-13 17:01:16,,True,False
-181,6,1.200.0,5,good,Google Play,English,Positive,General,False,0,2026-05-13 03:30:08,,True,False
-182,6,1.199.0,5,mantap.terbaik,Google Play,English,Neutral,General,False,0,2026-05-12 22:41:07,,False,False
-183,6,1.199.0,5,easy to use faster than ever,Google Play,English,Positive,General,False,0,2026-05-12 20:46:44,,True,False
-184,6,1.199.0,1,"After updating the apps, it auto-offed my Budi.This made me fail to claim my petrol transaction, and Steel did not respond to this, just telling me it was non-refundable.Please fix it.",Google Play,English,Negative,General,True,1,2026-05-12 19:42:01,2026-06-10 14:35:38,False,True
-185,6,1.199.0,5,Always a good,Google Play,English,Positive,General,False,0,2026-05-12 15:55:04,,True,False
-186,6,1.199.0,5,It is very user friendly and the application runs smoothly even during my data line speed connection are slow.,Google Play,English,Negative,General,False,3,2026-05-11 23:39:03,,True,True
-187,6,1.199.0,1,slow to many app,Google Play,English,Negative,General,True,0,2026-05-11 21:02:05,2026-06-10 14:36:06,False,True
-188,6,1.199.0,5,mudah & pantas. Rugi kalau tak guna,Google Play,English,Neutral,General,False,0,2026-05-11 21:01:14,,False,False
-189,6,1.199.0,5,"very helpful, very easy,save time and energy..love the app ☺️❤️",Google Play,English,Positive,General,False,1,2026-05-11 18:45:17,,True,False
-190,6,1.199.0,5,"easy to use, simple interface, nice reward system",Google Play,English,Positive,General,False,1,2026-05-11 16:39:39,,True,False
-191,6,1.199.0,5,bagus... mudah nak pakai..,Google Play,English,Neutral,General,False,0,2026-05-11 06:47:50,,False,False
-192,6,1.199.0,5,great app...,Google Play,English,Positive,General,False,0,2026-05-11 01:46:31,,True,False
-193,6,1.199.0,5,"helpfull, rewarding, easy to use just clicks away to refuell.",Google Play,English,Positive,General,False,1,2026-05-10 19:23:52,,True,False
-194,6,1.199.0,5,the most practical and easy to use app.,Google Play,English,Positive,General,False,0,2026-05-10 15:31:45,,True,False
-195,6,1.199.0,5,senang dan terbaik..point die pn best,Google Play,English,Positive,General,False,0,2026-05-10 14:57:38,,True,False
-196,6,1.199.0,5,Great apps,Google Play,English,Positive,General,False,0,2026-05-10 12:26:03,,True,False
-197,6,1.199.0,5,"convenient, helpful, transparent. good job petronas.",Google Play,English,Positive,General,False,1,2026-05-09 20:53:39,,True,False
-198,6,1.199.0,5,Each petrol station need to have this,Google Play,English,Neutral,General,False,0,2026-05-09 10:22:46,,False,False
-199,6,,1,"setel guna credit card ada fee 1%,memang menyusahkan...apps plak kdg slow response...",Google Play,English,Negative,General,True,0,2026-05-09 09:25:20,2026-06-10 14:36:35,False,True
-200,6,1.196.1,5,good app,Google Play,English,Positive,General,False,0,2026-05-08 22:19:08,,True,False
-201,6,1.199.0,5,Nice,Google Play,English,Neutral,General,False,0,2026-05-08 16:23:30,,False,False
-202,6,1.199.0,5,best app ever,Google Play,English,Positive,General,False,0,2026-05-08 12:28:05,,True,False
-203,6,1.198.0,5,"Mudah, pantas dan reliable...",Google Play,English,Neutral,General,False,0,2026-05-08 11:41:39,,False,False
-204,6,1.199.0,5,Its very convenient & easy as ABC.,Google Play,English,Positive,General,False,1,2026-05-08 08:02:43,,True,False
-205,6,1.199.0,5,Aplikasi petronas paling memudahkan,Google Play,English,Neutral,General,False,0,2026-05-07 11:08:00,,False,False
-206,6,1.199.0,5,good,Google Play,English,Positive,General,False,0,2026-05-06 20:47:12,,True,False
-207,6,1.199.0,5,Easy,Google Play,English,Positive,General,False,0,2026-05-06 09:22:03,,True,False
-208,6,1.199.0,5,thorbaik senang kerja,Google Play,English,Neutral,General,False,0,2026-05-06 09:00:40,,False,False
-209,6,1.198.0,1,"a hassle registration. my mesra kad i made a long time ago was filled with someone else's phone number probably station i registered long time ago. cs kept asking screenshot this that & my email too 🤬. then another security bummer, after i already registered my selfie & ic came along another security verification of the same thing.",Google Play,English,Neutral,General,True,0,2026-04-30 16:02:16,2026-06-10 14:39:53,False,False
-210,6,1.198.0,5,good,Google Play,English,Positive,General,False,0,2026-04-29 14:56:29,,True,False
-211,6,1.198.0,1,I'm having problems with location settings. it can't detect my location! no matter how many times i uninstalled it is still the same. aku nk isi minyak oi!!!,Google Play,English,Negative,General,True,3,2026-04-28 09:08:46,2026-06-10 14:40:08,False,True
-212,6,1.198.0,5,ezy p z,Google Play,English,Neutral,General,False,0,2026-04-28 07:55:54,,False,False
-213,6,1.198.0,5,Aplikasi yang sangat memudahkan.. cuma perlu topup duit dalam aplikasi settle je.. kemudian pergi mana² stesen minyak petronas dia akan auto detect lokasi.. pilih nombor pam dan buat pembayaran.. tunggu sampai dia kata dah boleh angkat nozel baru kita boleh isi.. sangat membantu jika ramai orang beratur di kaunter pembayaran.. terima kasih settle,Google Play,English,Neutral,General,False,0,2026-04-28 06:47:40,,False,False
-214,6,1.198.0,5,easy use for fuel,Google Play,English,Positive,General,False,0,2026-04-28 02:14:12,,True,False
-215,6,1.198.0,1,cant sign-in,Google Play,English,Neutral,General,True,0,2026-04-27 09:26:39,2026-06-10 14:40:15,False,False
-216,6,,1,Rubbish apps ever,Google Play,English,Neutral,General,True,0,2026-04-26 19:55:32,2026-06-10 14:40:26,False,False
-217,6,1.198.0,1,"dkt petronas seksyen 27 shah alam, tunggu lama nk isi minyak. sistem offline pulakkk",Google Play,English,Neutral,General,True,0,2026-04-24 22:38:53,2026-06-10 14:41:16,False,False
-218,6,1.198.0,5,"mudah,senang dan lebih cepat..dan yg lebih menguntungkan dapat point 3x bile isi selalu guna setel..love setel💕",Google Play,English,Positive,General,False,0,2026-04-23 19:51:28,,True,False
-219,6,1.116.0,1,Petronas online voucher unable use to redeem petrol,Google Play,English,Neutral,General,True,0,2026-04-22 22:19:01,2026-04-24 16:28:52,False,False
-220,6,1.194.3,5,"mudah, cepat, antara apps petrol pump terawal yg boleh buat mcm2",Google Play,English,Neutral,General,False,0,2026-04-22 01:21:54,,False,False
-221,6,1.198.0,5,easy to use,Google Play,English,Positive,General,False,0,2026-04-21 23:25:58,,True,False
-222,6,1.198.0,5,Great,Google Play,English,Positive,General,False,0,2026-04-21 10:33:37,,True,False
-223,6,1.198.0,5,No need to scan IC. Good.,Google Play,English,Positive,General,False,0,2026-04-21 09:17:00,,True,False
-224,6,1.198.0,5,easy & faster 👍🏽👍🏽👍🏽,Google Play,English,Positive,General,False,0,2026-04-20 22:08:21,,True,False
-225,6,1.198.0,5,"mudah, cepat, senang, recommended",Google Play,English,Neutral,General,False,0,2026-04-20 19:54:34,,False,False
-226,6,1.198.0,5,very convenient,Google Play,English,Positive,General,False,0,2026-04-20 10:28:55,,True,False
-227,6,1.198.0,5,Very easy & convenient. Great app,Google Play,English,Positive,General,False,1,2026-04-20 09:26:23,,True,False
-228,6,1.198.0,5,ok,Google Play,English,Neutral,General,False,0,2026-04-20 07:49:29,,False,False
-229,6,1.198.0,5,bole buat compatible dgn smartwatch wear os x,Google Play,English,Neutral,General,False,0,2026-04-19 23:16:26,,False,False
-230,6,1.198.0,5,using Setel makes my life ao mich easier. i don't need to go to the counter nor make any payments manually. just sogn up once and you are set to go. the info on this app is totally sufficient for consumption.,Google Play,English,Neutral,General,False,5,2026-04-19 22:01:00,,False,False
-231,6,1.196.1,5,sangat memuaskan hati. senang mudah. point reward pon best. tambahkan lagi cawangan stesen minyak di semua daerah dan kawasan,Google Play,English,Positive,General,False,0,2026-04-19 21:45:32,,True,False
-232,6,1.198.0,5,the time saver,Google Play,English,Neutral,General,False,0,2026-04-19 21:16:41,,False,False
-233,6,1.194.1,5,good,Google Play,English,Positive,General,False,0,2026-04-19 21:15:23,,True,False
-234,6,1.196.0,5,Using Setel will save time and easy to fueling.,Google Play,English,Positive,General,False,1,2026-04-19 19:23:45,,True,False
-235,6,1.198.0,5,tidak perlu ke kuanter untuk membuat pembayaran. mudah dan cepat,Google Play,English,Neutral,General,False,0,2026-04-19 18:11:21,,False,False
-236,6,1.198.0,5,"easy, convenient, and great for tracking usage",Google Play,English,Positive,General,False,1,2026-04-19 13:10:53,,True,False
-237,6,1.198.0,5,"mudah,cepat & lebih mata ganjaran 😁",Google Play,English,Neutral,General,False,0,2026-04-19 09:25:59,,False,False
-238,6,1.183.5,5,"easy to load, easy to use",Google Play,English,Positive,General,False,0,2026-04-19 09:19:13,,True,False
-239,6,1.198.0,5,"so very convenient! thank you!! From, Ms Kalaiselvi.",Google Play,English,Positive,General,False,0,2026-04-18 16:00:12,,True,False
-240,6,1.198.0,5,Very good,Google Play,English,Positive,General,False,0,2026-04-18 13:26:23,,True,False
-241,6,,3,"before budi95 is create every look easy to access, now even a simple QR transaction is going haywire/all over places. Bring back customer service hotline for those who hard to explaining in the AI chat. Can take example from Grab ewallet",Google Play,English,Positive,General,True,0,2026-04-18 13:07:13,2026-04-24 16:30:27,True,False
-242,6,1.198.0,5,memang menyenangkan semua dihujung jari...nak belanja minyak bila tumpang orang pun boleh...,Google Play,English,Neutral,General,False,0,2026-04-18 08:50:03,,False,False
-243,6,1.196.1,5,sangat mudah dan cepat,Google Play,English,Neutral,General,False,0,2026-04-18 08:33:09,,False,False
-244,6,1.198.0,5,easiest way to get fuel..,Google Play,English,Neutral,General,False,0,2026-04-17 21:59:13,,False,False
-245,6,1.198.0,5,Pantas n gets the job done 👍,Google Play,English,Neutral,General,False,0,2026-04-17 21:27:19,,False,False
-246,6,1.198.0,5,seemless,Google Play,English,Neutral,General,False,0,2026-04-17 09:56:26,,False,False
-247,6,,5,"Easy,reliable and it also have litres in sale.",Google Play,English,Positive,General,False,0,2026-04-17 09:02:57,,True,False
-248,6,,1,there no parking for majlis bandaraya Kuantan Pahang wth... better use touch n go,Google Play,English,Neutral,General,True,0,2026-04-16 10:27:03,2026-04-24 16:27:53,False,False
-249,6,,5,Easy,Google Play,English,Positive,General,False,0,2026-04-16 09:47:01,,True,False
-250,6,,1,"setel ni bahaya, kadang duit hilang. transfer berjaya tetapi duit hilang tah ke mana. email setel mintak bantuan tiada respons. dulu selalu guna apps ni senang, tapi bila dah terkena duit hilang sapa nak percaya. bukak page di FB ka apa, penuh dengan org buat tuntutan.",Google Play,English,Neutral,General,True,1,2026-04-15 23:38:13,2026-04-24 16:44:28,False,False
-251,6,1.196.1,5,sangat memuaskan👍,Google Play,English,Neutral,General,False,0,2026-04-15 22:50:36,,False,False
-252,6,1.196.0,5,easy to use I so proud using app keep going well done,Google Play,English,Positive,General,False,0,2026-04-15 18:34:57,,True,False
-253,6,1.198.0,5,This app is good and easy to use..,Google Play,English,Positive,General,False,0,2026-04-15 14:39:00,,True,False
-254,6,1.198.0,5,First time tested setel app as it's now come with credit card link & for now it's the most complete petrol app in Malaysia.... Good job Setel team...👍👍👍👍👍 ⭐⭐⭐⭐⭐ ..but I'm still stay with my old shell petrol app. It's meet my needs of simple & with credit card link ...😁,Google Play,English,Positive,General,False,3,2026-04-15 13:55:50,,True,False
-255,6,1.198.0,5,"easy to pay, faster and trusted",Google Play,English,Positive,General,False,0,2026-04-15 08:54:45,,True,False
-256,6,1.198.0,5,👍,Google Play,English,Neutral,General,False,0,2026-04-14 19:00:15,,False,False
-257,6,1.198.0,5,"Setel je weyhh!!! Support local, support P !!!",Google Play,English,Neutral,General,False,0,2026-04-14 18:43:35,,False,False
-258,6,1.198.0,5,mudah senang cepat... tak perlu beratur,Google Play,English,Neutral,General,False,0,2026-04-14 17:09:01,,False,False
-259,6,1.196.1,5,Very straight forward and convenience,Google Play,English,Neutral,General,False,0,2026-04-14 08:14:46,,False,False
-260,6,1.198.0,2,"sejak 2,3 hari ni apps x detect pump yg available..yg available pon x boleh payment..",Google Play,English,Neutral,General,True,1,2026-04-14 08:04:34,2026-04-24 16:31:07,False,False
-261,6,1.189.0,5,Memudahkan,Google Play,English,Neutral,General,False,0,2026-04-13 19:07:21,,False,False
-262,6,1.196.1,5,good,Google Play,English,Positive,General,False,0,2026-04-13 17:17:25,,True,False
-263,6,1.196.1,5,sangat mudah & menjimatkan masa,Google Play,English,Neutral,General,False,0,2026-04-13 15:26:07,,False,False
-264,6,1.196.1,5,very easy to use.. love it... mudahkan kerja kita❤️,Google Play,English,Positive,General,False,0,2026-04-13 11:02:49,,True,False
-265,6,1.196.0,5,very easy & friendly,Google Play,English,Positive,General,False,0,2026-04-13 09:23:12,,True,False
-266,6,1.196.1,5,Cepat Dan pantas,Google Play,English,Neutral,General,False,0,2026-04-12 18:00:24,,False,False
-267,6,1.196.1,5,better,Google Play,English,Neutral,General,False,0,2026-04-12 16:25:39,,False,False
-268,6,1.198.0,5,power cing cing,Google Play,English,Neutral,General,False,0,2026-04-12 14:16:33,,False,False
-269,6,1.196.1,5,memudahkan pengguna.. rasa macam boss² je bila guna Setel.. padahal kuli je,Google Play,English,Neutral,General,False,0,2026-04-12 08:59:33,,False,False
-270,6,1.196.1,5,"Memudahkan urusan,menjimatkan masa dan dapat gumpul mata ganjaran..tq Setel..",Google Play,English,Neutral,General,False,0,2026-04-12 03:19:15,,False,False
-271,6,1.198.0,5,"Mudah dan senang, semua maklumat telah ada di dalam apps SETEL..pembelian minyak lagi mudah tanpa perlu keluarkan kad pengenalan. terbaik SETEL & PETRONAS.",Google Play,English,Neutral,General,True,0,2026-04-11 18:07:37,2022-06-11 14:22:04,False,False
-272,6,1.183.4,5,The best,Google Play,English,Positive,General,False,0,2026-04-11 15:36:54,,True,False
-273,6,1.198.0,5,memudahkan urusan di stesen minyak...,Google Play,English,Neutral,General,False,0,2026-04-11 00:07:26,,False,False
-274,6,1.196.1,4,convenient to use,Google Play,English,Positive,General,False,1,2026-04-10 19:09:42,,True,False
-275,6,1.196.1,5,"Setel sangat memudahkan urusan isi minyak, cepat, mesra pengguna dan jimat masa tanpa perlu beratur d kaunter.",Google Play,English,Neutral,General,False,0,2026-04-10 18:58:30,,False,False
-276,6,1.196.1,5,Easy and fast. No need for the hassle to take out NRIC.,Google Play,English,Positive,General,False,2,2026-04-10 11:36:47,,True,False
-277,6,,5,mudah & cepat. nah begini👍👍👍,Google Play,English,Neutral,General,False,0,2026-04-09 23:43:20,,False,False
-278,6,,5,good,Google Play,English,Positive,General,False,0,2026-04-09 09:17:33,,True,False
-279,6,1.196.1,5,baikkk ah,Google Play,English,Neutral,General,False,0,2026-04-09 07:48:13,,False,False
-280,6,1.196.1,5,senang dan mudah,Google Play,English,Neutral,General,False,0,2026-04-09 06:47:24,,False,False
-281,6,1.196.1,5,Terrrbaik. Sennag dan mudah. Takyah beratuq,Google Play,English,Neutral,General,False,0,2026-04-08 22:48:56,,False,False
-282,6,1.196.1,5,very good,Google Play,English,Positive,General,False,0,2026-04-08 19:29:49,,True,False
-283,6,1.196.1,5,Memudahkan urusan masa Jammed,Google Play,English,Neutral,General,False,0,2026-04-08 19:04:44,,False,False
-284,6,1.196.1,5,okay,Google Play,English,Neutral,General,False,0,2026-04-08 18:37:14,,False,False
-285,6,1.196.1,5,tbaikkk sokong yg mlysia punya bntu negara lbih baik,Google Play,English,Neutral,General,False,0,2026-04-08 14:18:33,,False,False
-286,6,1.196.1,5,senang dan mudah... settle je,Google Play,English,Neutral,General,False,0,2026-04-08 13:46:29,,False,False
-287,6,1.196.1,5,very easy,Google Play,English,Positive,General,False,0,2026-04-08 13:24:06,,True,False
-288,6,1.196.1,3,lepas update qr problem,Google Play,English,Negative,General,True,1,2026-04-08 10:21:34,2026-04-24 16:47:06,False,True
-289,6,1.196.1,5,nice,Google Play,English,Neutral,General,False,0,2026-04-08 00:27:49,,False,False
-290,6,1.196.1,5,Very convinient and hassle free,Google Play,English,Neutral,General,False,1,2026-04-07 22:18:31,,False,False
-291,6,1.196.1,5,Great apps 👍🏾,Google Play,English,Positive,General,False,0,2026-04-07 11:03:29,,True,False
-292,6,1.196.1,5,convenient,Google Play,English,Positive,General,False,0,2026-04-06 20:18:38,,True,False
-293,6,1.196.1,5,Sangat memudahkan. Tidak perlu jalan ke kaunter terutamanya yang ada anak kecil di kereta. Dan lebih mudah dari guna kad.,Google Play,English,Neutral,General,False,0,2026-04-06 17:37:51,,False,False
-294,6,1.196.1,5,good apps. easier your life,Google Play,English,Positive,General,False,1,2026-04-06 13:45:47,,True,False
-295,6,,5,"Easy and convenient, no nonsense and cumbersome second validation at counter!",Google Play,English,Positive,General,False,1,2026-04-06 11:42:21,,True,False
-296,6,1.196.1,5,musdahkan urusan,Google Play,English,Neutral,General,False,0,2026-04-06 09:05:56,,False,False
-297,6,1.196.1,5,mudah sangat nak select loc & bayaran,Google Play,English,Neutral,General,False,0,2026-04-06 08:48:58,,False,False
-298,6,,1,Setel dah start bermasalah. Aku tunggu transaction topup asyik sangkut je. Poor maintenance!,Google Play,English,Neutral,General,True,0,2026-04-05 15:54:52,2026-04-24 16:29:24,False,False
-299,6,1.196.1,5,easy pump how many liters you like,Google Play,English,Positive,General,False,1,2026-04-05 11:52:16,,True,False
-300,6,1.196.1,5,the best so far for BUDI95 feul,Google Play,English,Positive,General,False,1,2026-04-04 23:50:42,,True,False
-301,6,1.196.1,5,good,Google Play,English,Positive,General,False,0,2026-04-04 22:29:45,,True,False
-302,6,1.196.1,5,Ia sangat menyenangkan keja sy.. Xperlu beratur panjang.. Terbaik Petronas..,Google Play,English,Neutral,General,False,0,2026-04-04 18:56:17,,False,False
-303,6,1.196.1,5,good apps,Google Play,English,Positive,General,False,0,2026-04-04 17:04:06,,True,False
-304,6,1.196.1,5,good quality product,Google Play,English,Positive,General,False,1,2026-04-03 21:42:10,,True,False
-305,6,1.196.1,5,okay laa senang diguna,Google Play,English,Neutral,General,False,0,2026-04-03 18:38:34,,False,False
-306,6,1.196.1,1,dah top up duit ..kat app ni..time emergency nak isi minyak..app x function pula.,Google Play,English,Neutral,General,True,1,2026-04-03 14:51:22,2026-04-24 16:28:12,False,False
-307,6,1.193.1,5,"mudah senang dan cepat.Jimat masa.Tak perlu beratur , pergi ke kaunter untuk mengisi minyak.Terbaik",Google Play,English,Neutral,General,False,0,2026-04-03 08:12:51,,False,False
-308,6,1.196.1,1,"1st time renew motor insurance and roadtax via the apps, bad experience, payment have been done, but no policy and no road tax. Even after download the etiqa apps no policy exist and my roadtax renewal failed but the payment already done via Setel. Setel got the money but I didn't get nothing. Still waiting for their team to follow up and update me.",Google Play,English,Negative,General,True,2,2026-04-02 21:38:55,2026-04-24 16:37:50,False,True
-309,6,,1,super suck can't even apply mybudi properly + petro station who didnt understand anything.....lucky only get the gift card if not will never use this apps ever again,Google Play,English,Neutral,General,True,1,2026-04-02 13:47:22,2026-04-24 16:27:30,False,False
-310,6,1.196.1,4,"easy bitsy app for fuel up gas at Petronas.. need users more careful, patient, manners, focus and don't so blur with pump number.. cancellation procedure a lil bit worse.. need wait for approval & refund.. before start back",Google Play,English,Negative,General,False,1,2026-04-02 13:44:06,,True,True
-311,6,1.196.1,1,Annoying app. Get rid of this. DO BETTER NEXT TIME PETRONAS. I AM IN RUSH AND WANT TO TOP-UP MY ACCOUNT SO I CAN PURCHASE FUEL. IT SAYS IT NEED A MINUTE TO PROCESS THE TRANSACTION. 10 WHOLE MINUTES HAVE GONE BY!! I CAN'T EVEN CANCEL THE TRANSACTION. WASTE IF MY TIME. USELESS PEOPLE,Google Play,English,Neutral,General,True,2,2026-04-02 13:29:21,2026-04-24 16:23:00,False,False
-312,6,1.196.1,5,convenient,Google Play,English,Positive,General,False,0,2026-04-02 10:01:24,,True,False
-313,6,1.196.1,5,good,Google Play,English,Positive,General,False,0,2026-04-02 06:59:56,,True,False
-314,6,1.196.1,5,easy to use,Google Play,English,Positive,General,False,1,2026-04-01 22:19:45,,True,False
-315,6,1.196.1,1,"antara app paling bangang sya pernah cuba. saya baru install.. ""Link this phone as a trusted device now"".. dan mintak passcode.. saya tak pernah set apa²... tak boleh ke buat mudah sikit",Google Play,English,Neutral,General,True,0,2026-04-01 21:36:41,2026-04-24 16:28:10,False,False
-316,6,1.196.1,5,Sangat² memudahkan. X perlu mo berbaris d kaunter sdh,Google Play,English,Neutral,General,False,0,2026-04-01 19:34:52,,False,False
-317,6,1.196.1,5,best,Google Play,English,Positive,General,False,0,2026-04-01 19:18:33,,True,False
-318,6,1.196.1,1,stop changing app icon art every single update,Google Play,English,Neutral,General,True,1,2026-04-01 16:31:40,2026-04-24 16:27:00,False,False
-319,6,1.183.4,5,terbaik,Google Play,English,Neutral,General,False,0,2026-04-01 15:29:00,,False,False
-320,6,1.196.0,5,So far steady sja,Google Play,English,Neutral,General,False,0,2026-04-01 14:02:02,,False,False
-321,6,1.196.1,1,"i change my rate from 5 to 1. the payment nowadays always failed. as of today i tried to pay the parking fees 5times, failed and your service unable to process the payment. very dissapointed. kena saman lah kejap lagi. thanks setel for ur unsettling service.",Google Play,English,Negative,General,True,4,2026-04-01 09:50:54,2026-04-24 16:23:10,False,True
-322,6,1.196.1,5,mudah,Google Play,English,Neutral,General,False,0,2026-04-01 09:40:17,,False,False
-323,6,1.196.1,5,ok,Google Play,English,Neutral,General,False,0,2026-04-01 00:00:40,,False,False
-324,6,1.196.1,5,good,Google Play,English,Positive,General,False,0,2026-03-31 23:29:59,,True,False
-325,6,1.196.1,5,Senang & cepat,Google Play,English,Neutral,General,False,0,2026-03-31 22:19:44,,False,False
-326,6,1.196.1,5,"Easy to use, promoting Cash less into Another level",Google Play,English,Positive,General,False,2,2026-03-31 20:12:23,,True,False
-327,6,1.196.0,5,"Easy, rewarded, anything that you would like to know about Petronas :)",Google Play,English,Positive,General,False,1,2026-03-31 19:22:49,,True,False
-328,6,1.196.1,2,cannot top up,Google Play,English,Neutral,General,True,1,2026-03-31 18:51:42,2026-04-24 16:26:21,False,False
-329,6,1.196.1,5,Easy to use,Google Play,English,Positive,General,False,1,2026-03-31 17:35:50,,True,False
-330,6,1.196.1,5,very convenient,Google Play,English,Positive,General,False,0,2026-03-31 14:01:59,,True,False
-331,6,1.196.1,5,Sgt² mudah,Google Play,English,Neutral,General,True,0,2026-03-31 07:18:35,2022-08-30 23:57:19,False,False
-332,6,1.196.1,5,easy to use and collect point,Google Play,English,Positive,General,False,1,2026-03-31 05:43:51,,True,False
-333,6,1.196.0,5,sgt function,Google Play,English,Neutral,General,False,0,2026-03-30 21:53:08,,False,False
-334,6,1.196.0,5,Staff were very friendly and helpful. This has make Setel a user friendly tool for seniors citizens.....,Google Play,English,Neutral,General,False,2,2026-03-30 15:45:01,,False,False
-335,6,1.196.1,5,Mudah dan senang untuk isi minyak petrol,Google Play,English,Neutral,General,False,0,2026-03-30 13:51:13,,False,False
-336,6,1.183.4,1,More updates: Application charges 1% for credit card for convenience fee. Must be a joke. This is why I use Shell and Caltex because they don't charge me anything. Using card should not have incur charges to the users. If you annualize this 1% it's basically 12% per annum.,Google Play,English,Neutral,General,True,1,2026-03-30 11:37:17,2020-09-18 21:55:08,False,False
-337,6,1.196.1,5,Sangat memudahkan,Google Play,English,Neutral,General,False,0,2026-03-30 10:55:03,,False,False
-338,6,1.196.0,5,Easy,Google Play,English,Positive,General,False,0,2026-03-29 23:33:42,,True,False
-339,6,1.196.1,5,sangat senang dan laju,Google Play,English,Neutral,General,False,0,2026-03-29 17:44:58,,False,False
-340,6,1.196.1,5,Ease your life when refueling,Google Play,English,Neutral,General,False,0,2026-03-29 10:36:00,,False,False
-341,6,1.196.1,5,really easy to use and user friendly,Google Play,English,Positive,General,False,1,2026-03-28 22:20:53,,True,False
-342,6,1.196.1,5,very user convenient and user friendly,Google Play,English,Positive,General,False,1,2026-03-28 19:48:42,,True,False
-343,6,1.196.1,5,good apps,Google Play,English,Positive,General,False,0,2026-03-28 15:05:56,,True,False
-344,6,,5,Very easy and fast. No need to buy at counter at all.,Google Play,English,Positive,General,False,2,2026-03-28 12:05:55,,True,False
-345,6,1.196.1,5,mantap kuda,Google Play,English,Neutral,General,False,0,2026-03-28 11:58:52,,False,False
-346,6,1.196.1,5,still got limit rm200 even have verified my phone android 16,Google Play,English,Neutral,General,False,0,2026-03-28 11:21:39,,False,False
-347,6,1.196.0,5,"Mudah dan senang. Terbaik.. cuma skrg ni, kalau offline. Nak beli topup Setel.. akan jadi susah. Ye la . Kita old school. Jadi tuang minyak dan minta resit. Resit pula dah x boleh send mcm mula² setel ini wujud. Pihak berkenaan.. mudah²kan la perkara tsb. Tidak semua org berduit yg boleh topup secara automatik direct dari debit/kredit..",Google Play,English,Neutral,General,True,0,2026-03-27 11:08:53,2021-12-21 15:11:43,False,False
-348,6,1.196.0,5,Simple & fast,Google Play,English,Positive,General,False,1,2026-03-27 11:06:47,,True,False
-349,6,1.196.0,5,"This apps is very simple,easy & i really like it..no more que,just park the car and fill fuel..thank you #Setel..keep up",Google Play,English,Positive,General,True,3,2026-03-26 14:05:01,2021-12-10 15:47:09,True,False
-350,6,1.196.1,5,Senang,Google Play,English,Neutral,General,False,0,2026-03-26 12:02:58,,False,False
-351,6,1.193.1,5,mudah dan pantas,Google Play,English,Neutral,General,False,0,2026-03-26 07:36:02,,False,False
-352,6,1.196.1,5,Good,Google Play,English,Positive,General,False,0,2026-03-26 07:06:14,,True,False
-353,6,,5,good,Google Play,English,Positive,General,False,0,2026-03-26 01:22:30,,True,False
-354,6,1.196.0,5,Mesti ada duit dalam Bank,Google Play,English,Neutral,General,False,0,2026-03-25 18:47:41,,False,False
-355,6,1.196.1,5,friendly,Google Play,English,Neutral,General,False,0,2026-03-25 12:32:51,,False,False
-356,6,1.196.0,5,good service 👍,Google Play,English,Positive,General,False,0,2026-03-25 11:36:32,,True,False
-357,6,1.196.0,5,World Best Service,Google Play,English,Positive,General,False,1,2026-03-25 10:21:48,,True,False
-358,6,1.196.0,2,"Too many update, release app without proper testing.",Google Play,English,Neutral,General,True,31,2026-03-25 10:18:54,2026-04-24 16:26:08,False,False
-359,6,1.196.1,5,nice to see,Google Play,English,Neutral,General,False,0,2026-03-25 00:38:22,,False,False
-360,6,1.196.0,5,memudahkan urusan,Google Play,English,Neutral,General,False,0,2026-03-24 23:54:23,,False,False
-361,6,1.196.0,5,"easy to use, amazing",Google Play,English,Positive,General,False,1,2026-03-24 22:56:24,,True,False
-362,6,1.196.0,5,terbaik,Google Play,English,Neutral,General,False,0,2026-03-24 22:17:00,,False,False
-363,6,1.196.0,5,very easy to by fuel and kedai mesra.. Recommend to fmly to use apps setel..,Google Play,English,Positive,General,False,3,2026-03-24 22:08:45,,True,False
-364,6,1.196.0,5,good product and service,Google Play,English,Positive,General,False,1,2026-03-24 17:17:03,,True,False
-365,6,1.196.0,5,The best app for fuel purchase,Google Play,English,Positive,General,False,1,2026-03-24 12:15:39,,True,False
-366,6,,5,"good, 👍👍👍",Google Play,English,Positive,General,False,0,2026-03-24 07:21:15,,True,False
-367,6,1.196.0,5,Best app,Google Play,English,Positive,General,False,0,2026-03-23 13:17:38,,True,False
-368,6,1.196.0,5,Its so convenient and easy to use.. 🤙🏼,Google Play,English,Positive,General,False,1,2026-03-22 22:27:47,,True,False
-369,6,1.196.0,5,Very useful.,Google Play,English,Neutral,General,False,0,2026-03-22 19:04:45,,False,False
-370,6,1.196.0,5,Setel is quick and easy to use.,Google Play,English,Positive,General,False,2,2026-03-22 16:39:01,,True,False
-371,6,,5,Nice,Google Play,English,Neutral,General,False,0,2026-03-22 13:29:39,,False,False
-372,6,1.196.0,5,"easy to use, faster payment. all good 👍🏻.",Google Play,English,Positive,General,False,1,2026-03-21 20:40:14,,True,False
-373,6,1.196.0,5,good apps,Google Play,English,Positive,General,False,0,2026-03-21 13:55:40,,True,False
-374,6,1.196.0,5,"Quick, without fuss",Google Play,English,Neutral,General,False,1,2026-03-21 10:03:30,,False,False
-375,6,1.196.0,5,Mudah dan tak perlu beratur,Google Play,English,Neutral,General,False,0,2026-03-20 08:44:08,,False,False
-376,6,1.196.0,5,saya dah pakai system ini sejak diperkenalkan lebih dari 5 tahun lagi,Google Play,English,Neutral,General,False,0,2026-03-20 06:49:57,,False,False
-377,6,,5,easy,Google Play,English,Positive,General,False,0,2026-03-19 20:23:02,,True,False
-378,6,1.196.0,5,Aplikasi yang mudah.. Dah memudahkan..,Google Play,English,Neutral,General,False,0,2026-03-19 18:11:26,,False,False
-379,6,1.196.0,1,"App keeps log out on its own. Have to re login every 30 second. Tried to reinstall many times, but the result was still the same.",Google Play,English,Neutral,General,True,2,2026-03-19 13:40:59,2026-04-24 16:23:17,False,False
-380,6,,5,apps yg BAIK mempermudahkan urusan saya n kamu,Google Play,English,Neutral,General,False,0,2026-03-19 10:30:05,,False,False
-381,6,1.196.0,5,terbaikkkkk,Google Play,English,Neutral,General,False,0,2026-03-19 09:02:46,,False,False
-382,6,1.196.0,5,"easy, no need to use credit card or cash money. love it!",Google Play,English,Positive,General,False,2,2026-03-19 06:03:56,,True,False
-383,6,,5,👍,Google Play,English,Neutral,General,False,0,2026-03-18 22:48:29,,False,False
-384,6,1.196.0,5,setel is good,Google Play,English,Positive,General,False,0,2026-03-18 19:33:27,,True,False
-385,6,1.194.3,5,Best guna,Google Play,English,Positive,General,False,0,2026-03-18 12:34:17,,True,False
-386,6,1.196.0,5,terbaik padu laju mantap,Google Play,English,Neutral,General,False,0,2026-03-17 22:04:03,,False,False
-387,6,1.196.0,5,sempoi,Google Play,English,Neutral,General,False,0,2026-03-17 21:35:39,,False,False
-388,6,1.194.3,5,easy to setle,Google Play,English,Positive,General,False,1,2026-03-17 17:23:37,,True,False
-389,6,1.196.0,5,vgood,Google Play,English,Positive,General,False,0,2026-03-17 07:49:07,,True,False
-390,6,1.194.3,5,"Mudah, cepat dan jimat masa",Google Play,English,Neutral,General,False,0,2026-03-16 14:17:58,,False,False
-391,6,1.194.3,5,apps yang paling berguna..,Google Play,English,Neutral,General,False,0,2026-03-16 07:28:50,,False,False
-392,6,1.196.0,5,Easy,Google Play,English,Positive,General,False,0,2026-03-15 21:08:13,,True,False
-393,6,1.194.3,1,"renew insurans..dh bayar,diaorg pn dh terima pastu renew failed..dia bgtau nk refund tp dari 23/02/2026 sampai sekarang 15/03/2026 tak dapat refund tu..menyusahkan",Google Play,English,Negative,General,True,0,2026-03-15 18:08:19,2026-04-24 16:25:34,False,True
-394,6,1.196.0,5,Very useful,Google Play,English,Neutral,General,False,0,2026-03-14 22:08:13,,False,False
-395,6,1.196.0,5,Very convenient. I love it. Just as convenient as TnG.,Google Play,English,Positive,General,False,1,2026-03-14 15:53:33,,True,False
-396,6,1.196.0,5,fun to use 😘,Google Play,English,Neutral,General,False,1,2026-03-14 09:10:07,,False,False
-397,6,1.194.3,5,Easy to use,Google Play,English,Positive,General,False,1,2026-03-14 07:48:02,,True,False
-398,6,1.196.0,5,"Memudahkan pembelian, menjimatkan masa, tak perlu beratur dikaunter dan mata ganjaran juga berganda.",Google Play,English,Neutral,General,False,0,2026-03-13 13:10:10,,False,False
-399,6,1.194.3,5,Malaysia boleh,Google Play,English,Neutral,General,False,0,2026-03-13 10:37:25,,False,False
-400,6,1.194.3,5,easy to fuel pump...no need go to counter...malay cakap malas aku nak jalan ke counter...,Google Play,English,Positive,General,False,0,2026-03-13 08:46:41,,True,False
-401,6,1.194.3,5,very fast and easy when refueling my car,Google Play,English,Positive,General,False,1,2026-03-13 07:20:56,,True,False
-402,6,1.194.3,5,best,Google Play,English,Positive,General,False,0,2026-03-13 07:03:42,,True,False
-403,6,1.196.0,5,Very easy and fast.,Google Play,English,Positive,General,False,1,2026-03-13 04:24:46,,True,False
-404,6,1.194.3,2,Cooling period applied everytime i need to log in and it logs me out automatically every now and then. inconvenient,Google Play,English,Positive,General,True,2,2026-03-12 16:27:06,2026-04-24 16:25:54,True,False
-405,6,1.194.3,5,bagus tak perlu pergi ke kaunter utk bt pembayaran,Google Play,English,Neutral,General,False,0,2026-03-12 15:44:30,,False,False
-406,6,1.194.3,5,easy and reliable👍👍,Google Play,English,Positive,General,False,1,2026-03-12 09:58:22,,True,False
-407,6,1.194.3,5,Terbaik sekali,Google Play,English,Neutral,General,False,0,2026-03-11 23:15:56,,False,False
-408,6,1.190.0,5,memudahkan urusan saya,Google Play,English,Neutral,General,False,0,2026-03-11 21:15:30,,False,False
-409,6,1.194.3,5,Terbaik Sangat SETEL,Google Play,English,Neutral,General,True,0,2026-03-11 21:14:37,2024-07-03 19:28:52,False,False
-410,6,1.194.3,5,Make my life easier. No need to long queue.,Google Play,English,Neutral,General,False,1,2026-03-11 21:02:19,,False,False
-411,6,1.194.3,5,great apps,Google Play,English,Positive,General,False,0,2026-03-11 19:40:01,,True,False
-412,6,1.194.3,5,Brilliant transaction,Google Play,English,Neutral,General,False,0,2026-03-11 19:30:29,,False,False
-413,6,1.194.3,5,Nice,Google Play,English,Neutral,General,False,0,2026-03-11 13:38:06,,False,False
-414,6,1.194.3,5,"Make easy for transaction and refueling, make more cash back vouchers and promotions.",Google Play,English,Positive,General,False,2,2026-03-11 10:42:50,,True,False
-415,6,1.194.2,5,mudahkan urusan pembelian minyak petrol di PETRONAS,Google Play,English,Neutral,General,False,0,2026-03-10 17:47:09,,False,False
-416,6,1.194.3,4,"so far so good, not bad..👍",Google Play,English,Negative,General,False,1,2026-03-10 14:16:15,,True,True
-417,6,1.194.3,5,"Menjimatkan masa, tenaga dan wang ringgit anda. Mudah, cepat dan canggih.",Google Play,English,Neutral,General,False,0,2026-03-10 13:28:35,,False,False
-418,6,1.194.3,5,need to upgrade New systems in the Apps. can promote the interesting marketing for future purposes. also can get new customer using this Apps to be stronger.thank you!,Google Play,English,Neutral,General,False,1,2026-03-10 12:53:14,,False,False
-419,6,,5,baik,Google Play,English,Neutral,General,False,0,2026-03-09 18:31:35,,False,False
-420,6,1.194.3,5,easyyyy,Google Play,English,Positive,General,False,0,2026-03-09 10:17:21,,True,False
-421,6,1.194.3,5,program terbaik dari Petronas. tak perlu berbaris di counter. dapat point lagi. terima kasih,Google Play,English,Neutral,General,False,0,2026-03-09 09:01:45,,False,False
-422,6,1.194.3,1,"aplikasi ini bodoh,ketika kamu gagal.membuat pembayaran walaupun hanya kerana line tidak kuat,sekali gagal ianya akan menunggu masa yang lamak sekali untuk mengisi semula,di situlah masalah yan terutama,terpaksa saya bayar pakai cash dan ic selalu!!!",Google Play,English,Neutral,General,True,0,2026-03-08 19:00:27,2026-03-12 14:18:33,False,False
-423,6,1.194.3,5,good apps easy to use,Google Play,English,Positive,General,False,1,2026-03-08 17:38:58,,True,False
-424,6,1.194.3,5,Superb experience ....really awesome,Google Play,English,Neutral,General,False,1,2026-03-08 17:12:52,,False,False
-425,6,1.194.3,5,mudah,Google Play,English,Neutral,General,False,0,2026-03-08 15:21:08,,False,False
-426,6,1.186.0,1,"tiada fungsi qr untuk topup dan tf, leceh mau topup...",Google Play,English,Neutral,General,True,0,2026-03-08 12:46:00,2026-03-12 14:18:14,False,False
-427,6,1.194.3,5,good tapi app caltex lagi bagu bagi bonus n mudah.,Google Play,English,Positive,General,False,0,2026-03-08 11:54:19,,True,False
-428,6,1.194.3,5,Convenient,Google Play,English,Positive,General,False,0,2026-03-08 06:28:21,,True,False
-429,6,1.194.3,5,Super convenient,Google Play,English,Positive,General,False,0,2026-03-08 00:09:32,,True,False
-430,6,,5,useful,Google Play,English,Neutral,General,False,0,2026-03-07 16:45:49,,False,False
-431,6,1.194.3,5,sangat memudahkan urusan,Google Play,English,Neutral,General,False,0,2026-03-07 14:26:28,,False,False
-432,6,1.193.1,5,kerajaan madani The best,Google Play,English,Positive,General,False,0,2026-03-07 04:58:57,,True,False
-433,6,1.194.3,4,easy to fill up fuel..no need to pay at counter smooth features,Google Play,English,Positive,General,False,3,2026-03-06 23:18:23,,True,False
-434,6,1.194.3,5,fast and easy to use,Google Play,English,Positive,General,False,1,2026-03-06 15:52:24,,True,False
-435,6,1.194.3,5,pembayar menjadi mudah.. dan senang.. dan bnyak bnyak bonos,Google Play,English,Neutral,General,False,0,2026-03-06 14:39:53,,False,False
-436,6,1.193.1,5,bagus,Google Play,English,Neutral,General,False,0,2026-03-06 10:27:18,,False,False
-437,6,1.194.1,5,fast and efficient!,Google Play,English,Positive,General,False,2,2026-03-06 09:48:51,,True,False
-438,6,1.194.3,5,aps paling terbaik untuk syarikat minyak kt malaysia,Google Play,English,Neutral,General,False,0,2026-03-06 07:39:52,,False,False
-439,6,1.194.1,5,nice apps,Google Play,English,Neutral,General,False,0,2026-03-06 00:25:28,,False,False
-440,6,1.194.3,5,Best,Google Play,English,Positive,General,False,0,2026-03-05 21:28:32,,True,False
-441,6,1.194.3,5,Amazing and efficient UI,Google Play,English,Neutral,General,False,2,2026-03-05 13:29:32,,False,False
-442,6,1.194.3,5,best guna ni..mudah isi petrol kereta..,Google Play,English,Positive,General,False,0,2026-03-05 12:47:04,,True,False
-443,6,1.194.3,5,👍👍👍,Google Play,English,Neutral,General,False,0,2026-03-05 07:34:22,,False,False
-444,6,1.183.6,5,verry 👍,Google Play,English,Neutral,General,False,0,2026-03-05 06:14:19,,False,False
-445,6,1.194.3,5,so easy to use quite lots of promos contests etc....,Google Play,English,Positive,General,False,2,2026-03-04 20:35:20,,True,False
-446,6,1.194.3,5,easy to used,Google Play,English,Positive,General,False,0,2026-03-04 19:13:52,,True,False
-447,6,1.194.3,4,very good indeed,Google Play,English,Positive,General,False,0,2026-03-04 18:22:57,,True,False
-448,6,1.194.3,1,sudah 5 kali buat verification acc.. tapi fail.. perlu buat kat tempat cerah bukan dalam lampu bilik,Google Play,English,Neutral,General,True,0,2026-03-04 11:24:24,2026-03-12 14:17:55,False,False
-449,6,1.194.3,1,"processing topup tu sampai mampus, sampah punya apps, lembab , company kaya raya , kasi developer server murah, server beli 2nd hand ke apa ?",Google Play,English,Neutral,General,True,0,2026-03-04 10:20:44,2026-03-12 14:17:21,False,False
-450,6,1.194.2,5,"UPDATED: Please make options auto topup every month, not by min amount UPDATE: Change from 4 to 5 stars. The best app in my life. Make my life easy. Thank you SETEL Team.",Google Play,English,Positive,General,True,7,2026-03-03 22:01:57,2021-01-15 16:42:38,True,False
-451,6,1.194.3,1,"I would like to report an issue regarding the top-up function in the Setel app. After I approve the transaction in my banking app, the Setel top-up interface frequently disconnects. Once disconnected, the top-up process is significantly delayed and takes a long time to be reflected in the app. This creates uncertainty about whether the transaction was successful and causes inconvenience. Please investigate this issue and improve the stability of the top-up interface.",Google Play,English,Negative,General,True,2,2026-03-03 17:22:28,2026-03-12 14:16:56,False,True
-452,6,1.194.3,4,ok,Google Play,English,Neutral,General,False,0,2026-03-03 17:03:55,,False,False
-453,6,1.194.3,5,very convenient to use,Google Play,English,Positive,General,False,1,2026-03-03 14:26:24,,True,False
-454,6,1.194.3,5,Setel it's the best and marvellous apps,Google Play,English,Positive,General,False,2,2026-03-03 06:33:32,,True,False
-455,6,,5,wow,Google Play,English,Neutral,General,False,0,2026-03-03 01:27:53,,False,False
-456,6,1.194.1,5,easy,Google Play,English,Positive,General,False,0,2026-03-02 16:54:02,,True,False
-457,6,1.194.3,5,The workers and staff in the fuel station are very keen to help whenever you need assistance to use the Setel,Google Play,English,Neutral,General,False,2,2026-03-02 09:17:57,,False,False
-458,6,1.194.3,5,very easy n friendly apps,Google Play,English,Positive,General,False,1,2026-03-02 05:57:25,,True,False
-459,6,,4,tbaek,Google Play,English,Neutral,General,False,0,2026-03-01 18:08:21,,False,False
-460,6,1.186.0,5,cepat,Google Play,English,Neutral,General,False,0,2026-03-01 17:53:37,,False,False
-461,6,1.194.1,5,a very good system,Google Play,English,Positive,General,False,0,2026-03-01 17:15:56,,True,False
-462,6,,5,Easy peasy.....love it,Google Play,English,Positive,General,False,0,2026-03-01 13:35:24,,True,False
-463,6,,5,best apps,Google Play,English,Positive,General,False,0,2026-02-28 23:16:24,,True,False
-464,6,1.194.1,5,terbaik kopio,Google Play,English,Neutral,General,False,0,2026-02-28 20:14:40,,False,False
-465,6,1.194.3,5,good,Google Play,English,Positive,General,False,0,2026-02-27 12:47:39,,True,False
-466,6,1.194.3,5,ok,Google Play,English,Neutral,General,False,0,2026-02-27 07:41:09,,False,False
-467,6,1.194.3,5,verry good effort,Google Play,English,Positive,General,False,0,2026-02-27 07:24:59,,True,False
-468,6,1.194.1,5,bagus,Google Play,English,Neutral,General,False,0,2026-02-27 04:58:21,,False,False
-469,6,1.194.1,5,senang mengunakan ny Dan saya sangat sangat suka ❤️❤️✨✨✨,Google Play,English,Neutral,General,False,0,2026-02-26 22:40:03,,False,False
-470,6,1.194.1,5,Terbaik. Setakat sekarang memang puas hati. Memudahkan urusan. Tq,Google Play,English,Neutral,General,False,0,2026-02-26 07:05:18,,False,False
-471,6,1.194.3,5,terbaik,Google Play,English,Neutral,General,False,0,2026-02-26 06:49:23,,False,False
-472,6,1.194.3,5,terbaik Petronas 👍👍👍👍👍,Google Play,English,Neutral,General,False,0,2026-02-26 01:39:54,,False,False
-473,6,1.194.1,5,wonderful,Google Play,English,Neutral,General,False,0,2026-02-25 22:10:19,,False,False
-474,6,1.194.3,5,"Easy, fast and so reliable!!!",Google Play,English,Positive,General,False,1,2026-02-25 17:10:35,,True,False
-475,6,1.194.3,5,Mantap,Google Play,English,Neutral,General,False,0,2026-02-25 16:39:34,,False,False
-476,6,1.194.3,5,Mudah,Google Play,English,Neutral,General,False,0,2026-02-25 15:49:50,,False,False
-477,6,1.194.1,5,ok,Google Play,English,Neutral,General,False,0,2026-02-25 12:20:16,,False,False
-478,6,1.194.1,5,"It's so convinient to use, thnks",Google Play,English,Neutral,General,False,2,2026-02-25 08:54:09,,False,False
-479,6,1.194.3,5,make life easier,Google Play,English,Neutral,General,False,0,2026-02-25 08:12:20,,False,False
-480,6,1.194.3,3,keep crashing with the camera at the Verify stage,Google Play,English,Negative,General,True,1,2026-02-24 22:57:41,2026-02-25 16:03:07,False,True
-481,6,1.194.1,5,super fast,Google Play,English,Positive,General,False,0,2026-02-24 21:43:03,,True,False
-482,6,1.194.2,5,good,Google Play,English,Positive,General,False,0,2026-02-24 18:26:16,,True,False
-483,6,1.194.1,5,Superb,Google Play,English,Neutral,General,False,0,2026-02-24 17:36:19,,False,False
-484,6,1.194.2,5,Execellent,Google Play,English,Neutral,General,False,0,2026-02-24 15:40:04,,False,False
-485,6,1.194.1,5,mudah,Google Play,English,Neutral,General,False,0,2026-02-24 10:23:16,,False,False
-486,6,1.194.1,5,Best. Sesuai dengan namanya. Settle!,Google Play,English,Positive,General,False,1,2026-02-24 09:24:47,,True,False
-487,6,1.194.1,5,memudahkan urusan mengisi minyak,Google Play,English,Neutral,General,False,0,2026-02-24 07:34:55,,False,False
-488,6,1.194.2,5,easy and give more some e wallet tngo,Google Play,English,Positive,General,False,2,2026-02-24 00:45:01,,True,False
-489,6,1.194.2,1,Loading and bug..please fix it,Google Play,English,Negative,General,True,1,2026-02-23 19:02:20,2026-02-25 16:03:20,False,True
-490,6,1.194.1,5,mudah & jimat masa tak perlu pergi kauter,Google Play,English,Neutral,General,False,0,2026-02-23 17:35:22,,False,False
-491,6,1.194.2,4,proses semak tambah nilai bermasalah @ lambat.,Google Play,English,Neutral,General,True,0,2026-02-23 17:03:40,2025-05-01 15:25:26,False,False
-492,6,1.138.0,1,Stupid apps,Google Play,English,Neutral,General,True,0,2026-02-23 15:39:54,2026-02-25 16:03:32,False,False
-493,6,1.194.1,5,Memudahkan untuk pengguna kan mengisi minyak,Google Play,English,Neutral,General,False,0,2026-02-23 14:46:39,,False,False
-494,6,1.194.1,5,easy to use..user friendly,Google Play,English,Positive,General,False,1,2026-02-23 07:36:22,,True,False
-495,6,1.194.1,5,dapat point,Google Play,English,Neutral,General,False,0,2026-02-22 23:56:22,,False,False
-496,6,1.194.1,5,friendly apps... I like!,Google Play,English,Neutral,General,False,2,2026-02-22 23:05:12,,False,False
-497,6,1.194.1,5,"so far, this the best apps for online payments in which each point can be converted back into cash.",Google Play,English,Positive,General,False,2,2026-02-22 22:22:08,,True,False
-498,6,1.194.1,5,excellent,Google Play,English,Positive,General,False,0,2026-02-22 19:55:00,,True,False
-499,6,1.194.1,5,app paling terbaik utk fuel minyak. mudah n senang guna.,Google Play,English,Neutral,General,False,0,2026-02-22 19:49:46,,False,False
-500,6,1.194.1,4,Good,Google Play,English,Positive,General,False,0,2026-02-22 18:49:10,,True,False
+1,6,1.203.3,5,good,Google Play,English,Positive,None,False,0,2026-07-05 19:32:25,,True,False
+2,6,1.203.3,5,pekerja terbaik..tqvm,Google Play,English,Neutral,None,False,0,2026-07-05 09:47:45,,False,False
+3,6,,1,close app,Google Play,English,Neutral,None,False,0,2026-07-04 17:36:49,,False,False
+4,6,,5,nice,Google Play,English,Neutral,None,False,0,2026-07-04 10:05:41,,False,False
+5,6,1.203.3,1,"keep asking to enable location,location already enabled",Google Play,English,Neutral,None,False,0,2026-07-04 09:23:02,,False,False
+6,6,,5,mmg fuction habis appsni. senang isi minyak budi tanpa tunjuk ic,Google Play,English,Neutral,None,False,0,2026-07-03 20:38:25,,False,False
+7,6,1.203.3,3,sometimes top up a bit slow,Google Play,English,Negative,Performance,False,0,2026-07-03 18:46:43,,False,True
+8,6,1.203.3,5,easy recommended 👌🏻,Google Play,English,Positive,None,False,0,2026-07-03 11:01:11,,True,False
+9,6,1.203.3,5,"Great app! The interface is simple and easy to navigate. Fuel payments are quick, and I like being able to track my transactions and earn rewards in one place. It has made refuelling much more convenient. Highly recommended!",Google Play,English,Positive,None,False,0,2026-07-03 08:32:01,,True,False
+10,6,1.202.1,5,senang untuk guna,Google Play,English,Neutral,None,False,0,2026-07-03 06:46:54,,False,False
+11,6,1.136.3,1,"a ""cool down period"" security update that no one asked for except maybe your insecure ahh mom",Google Play,English,Positive,None,False,0,2026-07-02 21:47:58,,True,False
+12,6,1.203.3,5,easy n fast.. great 👍👍,Google Play,English,Positive,None,False,0,2026-07-02 19:43:11,,True,False
+13,6,1.203.3,5,More easy and more faster,Google Play,English,Positive,None,False,0,2026-07-02 14:30:19,,True,False
+14,6,1.203.3,5,laju servis,Google Play,English,Neutral,None,False,0,2026-07-02 05:55:08,,False,False
+15,6,,5,gooddddddddd,Google Play,English,Positive,None,False,0,2026-07-01 22:02:59,,True,False
+16,6,1.203.2,4,Auto top up still unavailable,Google Play,English,Neutral,None,True,1,2026-07-01 20:40:28,2024-02-18 20:55:07,False,False
+17,6,1.203.3,5,"easy to use, user friendly",Google Play,English,Positive,None,False,0,2026-07-01 20:11:59,,True,False
+18,6,1.203.3,5,Good and Excellent 👍,Google Play,English,Positive,None,False,0,2026-07-01 09:24:20,,True,False
+19,6,1.203.3,1,"Kira-kira 700,000 pemilik kenderaan persendirian di seluruh negara bakal menikmati diesel bersubsidi pada harga RM2.10 seliter menerusi pelaksanaan Budi Madani Diesel (Budi Diesel) bermula tengah malam ini. Namun di setel harga budi diesel Rm2.15 seliter. Setel ada masalah?!",Google Play,English,Neutral,None,False,0,2026-07-01 00:21:16,,False,False
+20,6,1.203.3,5,Easy to used.,Google Play,English,Positive,None,False,0,2026-06-30 23:38:51,,True,False
+21,6,1.203.2,5,sangat mudah..mata ganjaran pun banyak..nak redeem pun senang..,Google Play,English,Neutral,None,False,0,2026-06-30 23:15:14,,False,False
+22,6,1.203.3,1,"ada ic saja x ckup masih org asing kna ada lesen bru boleh isi budi, xdk lesen org asing siak😂😂😂",Google Play,English,Neutral,None,False,0,2026-06-30 21:52:19,,False,False
+23,6,1.203.2,5,easy to use and refill the petrol now!!,Google Play,English,Positive,None,False,0,2026-06-30 18:25:19,,True,False
+24,6,1.203.2,1,troublesome to use for senior citizen.,Google Play,English,Neutral,None,False,0,2026-06-30 13:48:26,,False,False
+25,6,,4,superb,Google Play,English,Neutral,None,False,0,2026-06-30 12:26:45,,False,False
+26,6,1.203.2,5,"memudahkan,cepat dan tidak perlu beratur panjang lg lepas guna apps Setel ni.. point dpt tukar ke duit lg tu",Google Play,English,Neutral,None,False,0,2026-06-30 11:17:27,,False,False
+27,6,1.203.2,1,"Why is my Mesra Points redemption restricted? I have 3 vehicles registered under my account. Sometimes I forget to switch to the correct plate number before refueling — does this cause the restriction? Please explain this simply and share the proper guidelines or compliance rules that apply. If this issue cannot be resolved, I will need to switch to Petron instead.",Google Play,English,Negative,Rewards,True,0,2026-06-30 09:49:07,2026-06-30 13:50:24,False,True
+28,6,1.203.2,5,friendly,Google Play,English,Neutral,None,False,0,2026-06-30 08:49:41,,False,False
+29,6,1.203.2,5,its convenient and easier to use,Google Play,English,Positive,None,False,0,2026-06-30 08:30:21,,True,False
+30,6,1.170.1,5,Jom join refer dpt rm3,Google Play,English,Neutral,None,False,0,2026-06-30 08:14:48,,False,False
+31,6,1.203.2,5,"Sebelum isi minyak top up di shopee, lepas tu top up di setel.. double cashback.. jimat..",Google Play,English,Neutral,None,False,0,2026-06-30 07:09:24,,False,False
+32,6,1.203.2,5,bagus,Google Play,English,Neutral,None,False,0,2026-06-29 22:37:41,,False,False
+33,6,1.203.0,5,"Good app right know because it's link with budi subsidi can manage and monitor by phone, got",Google Play,English,Positive,None,False,0,2026-06-29 22:08:32,,True,False
+34,6,1.203.2,5,Okey,Google Play,English,Neutral,None,False,0,2026-06-29 09:00:47,,False,False
+35,6,1.203.2,2,keep logging out every time opening the app. Before this the app really make refuelling easier,Google Play,English,Neutral,None,False,0,2026-06-28 23:14:12,,False,False
+36,6,1.203.0,5,Jimat masa Alhamdulillah 👍🏼,Google Play,English,Neutral,None,False,0,2026-06-28 21:24:10,,False,False
+37,6,1.202.1,5,wow,Google Play,English,Neutral,None,False,0,2026-06-28 21:16:52,,False,False
+38,6,1.203.1,1,3rd grade app,Google Play,English,Neutral,None,False,0,2026-06-28 16:55:17,,False,False
+39,6,1.203.2,5,This is great!!! Easy to use!!!!,Google Play,English,Positive,None,False,0,2026-06-28 11:18:58,,True,False
+40,6,1.203.2,5,love to use setel suggested by my lovely wife. Thank you to my wife.,Google Play,English,Positive,None,False,0,2026-06-28 10:39:23,,True,False
+41,6,1.203.2,5,"My Details Rating: 90% — very good app, especially for PETRONAS fuel, BUDI MADANI, and quick payments",Google Play,English,Positive,None,False,0,2026-06-27 16:05:23,,True,False
+42,6,1.203.2,5,very good,Google Play,English,Positive,None,False,0,2026-06-27 13:35:38,,True,False
+43,6,1.203.1,5,Super easy. Super super easy.,Google Play,English,Positive,None,False,0,2026-06-27 10:39:44,,True,False
+44,6,1.203.2,1,"The app fail to check automatically my BUDI RON95 eligibility. Despite my available balance was 154L, it applies the pump price at RM3.47 instead of RM1.99. When raised the issue to Setel Call Center. They said cannot do much about it and blame user bcos not familiar enough with the app operation process. Had experience similar issue before this. Seems the bug is left unattended. Regret that my entitlement for the BUDI RON95 was taken from me becos of the app own weaknesses and failure.",Google Play,English,Negative,Performance,True,0,2026-06-27 07:28:18,2026-06-27 12:27:23,False,True
+45,6,1.203.1,5,easy quick cashless transparent,Google Play,English,Positive,None,False,0,2026-06-27 06:50:47,,True,False
+46,6,1.203.2,5,good and enjoy...,Google Play,English,Positive,None,False,0,2026-06-27 06:49:18,,True,False
+47,6,1.202.1,5,Senang n cepat,Google Play,English,Neutral,None,False,0,2026-06-26 20:56:04,,False,False
+48,6,1.203.2,4,What would make this app perfect? Integrate it with Android Auto and Carplay! Refuel with a tap on the car screen instead of having to rummage through your bag or pocket looking for the phone.,Google Play,English,Neutral,None,False,0,2026-06-26 18:46:45,,False,False
+49,6,1.202.1,5,bagus Dan cepat,Google Play,English,Neutral,None,False,0,2026-06-26 16:15:01,,False,False
+50,6,1.202.1,5,Terbaik dari ladang xpayah nak g kaunter...teruskan petronas..👍👍👍,Google Play,English,Neutral,None,False,0,2026-06-26 15:06:48,,False,False
+51,6,1.203.2,1,Memang problem setel. Aku deposit rm40 tak masuk pastu error tapi deposit rm3 masuk pulak. Dah banyak kali call customer service tapi tak dapat. Semua no customer service tak boleh pakai. Hantar email untuk buat aduan pun error. Bodoh betul!,Google Play,English,Negative,Performance,True,0,2026-06-26 14:37:51,2026-06-27 12:29:07,False,True
+52,6,,1,tak bleh nk daftar trus on je cam ne ye,Google Play,English,Neutral,None,True,0,2026-06-26 12:59:49,2026-06-27 12:29:59,False,False
+53,6,1.203.1,5,Very Good👍,Google Play,English,Positive,None,False,0,2026-06-25 20:39:58,,True,False
+54,6,1.203.0,5,easy use and get something good,Google Play,English,Positive,None,False,0,2026-06-25 09:00:10,,True,False
+55,6,1.202.1,5,Very convenient,Google Play,English,Positive,None,False,0,2026-06-24 10:13:40,,True,False
+56,6,1.202.1,5,Convenient and easy to use.,Google Play,English,Positive,None,False,0,2026-06-23 22:24:15,,True,False
+57,6,1.203.0,5,okk lahh,Google Play,English,Neutral,None,False,0,2026-06-23 21:35:44,,False,False
+58,6,1.202.1,1,mata ganjaran dibekukan,Google Play,English,Neutral,None,True,0,2026-06-23 08:33:09,2026-06-27 12:29:42,False,False
+59,6,1.202.1,5,👍🏻,Google Play,English,Neutral,None,False,0,2026-06-23 07:31:18,,False,False
+60,6,1.202.1,5,easy to use. setel.,Google Play,English,Positive,None,False,0,2026-06-22 22:00:20,,True,False
+61,6,1.202.1,5,Sangat bagus gunakan Setel. Mudahkan urusan.,Google Play,English,Neutral,None,False,0,2026-06-22 20:38:34,,False,False
+62,6,1.202.1,5,efficient and user friendly....,Google Play,English,Neutral,None,False,0,2026-06-22 18:59:07,,False,False
+63,6,1.202.1,1,cant even register,Google Play,English,Neutral,None,True,0,2026-06-22 15:01:32,2026-06-22 17:54:37,False,False
+64,6,1.203.0,5,1 minit. so fast. thank you setel,Google Play,English,Positive,None,False,0,2026-06-22 12:32:47,,True,False
+65,6,1.202.1,5,terbaik,Google Play,English,Neutral,None,False,0,2026-06-21 10:51:57,,False,False
+66,6,1.202.1,5,bagus app ni,Google Play,English,Neutral,None,False,0,2026-06-21 09:43:24,,False,False
+67,6,1.202.1,5,Steady,Google Play,English,Neutral,None,False,0,2026-06-20 15:03:28,,False,False
+68,6,1.202.1,5,it's very convenient!! Simple n easy,Google Play,English,Positive,None,False,0,2026-06-20 03:55:16,,True,False
+69,6,1.202.1,5,excellent,Google Play,English,Positive,None,False,0,2026-06-20 03:33:14,,True,False
+70,6,1.173.0,2,"paling menyusahkan.. sudah top up malah tidak dapat membeli minyak, akaun di lock, tidak ada jalan penyelesaia..",Google Play,English,Neutral,None,True,0,2026-06-19 23:36:07,2026-06-22 17:53:24,False,False
+71,6,1.202.1,2,need to have some improvement,Google Play,English,Neutral,None,True,0,2026-06-19 16:20:55,2026-06-22 17:51:48,False,False
+72,6,1.201.1,5,iflix is a good entertainment application with enjoyable shows and movies,Google Play,English,Positive,None,False,0,2026-06-19 12:26:23,,True,False
+73,6,1.202.1,5,very good,Google Play,English,Positive,None,False,0,2026-06-18 11:22:30,,True,False
+74,6,1.198.0,5,Mantap,Google Play,English,Neutral,None,False,0,2026-06-18 10:09:24,,False,False
+75,6,1.202.1,5,thanks. very humble.,Google Play,English,Neutral,None,False,0,2026-06-18 02:14:15,,False,False
+76,6,1.202.1,5,Good,Google Play,English,Positive,None,False,0,2026-06-17 20:22:28,,True,False
+77,6,1.202.1,5,Senang nak allocate duit minyak setiap bulan,Google Play,English,Neutral,None,False,0,2026-06-16 19:21:04,,False,False
+78,6,1.201.1,5,"easy to use, and very convenient. bravo to the developer!",Google Play,English,Positive,None,False,0,2026-06-15 16:22:23,,True,False
+79,6,1.202.1,1,lembab nk update selepas topup,Google Play,English,Neutral,None,True,0,2026-06-15 14:08:17,2026-06-22 17:50:27,False,False
+80,6,,5,nice,Google Play,English,Neutral,None,False,0,2026-06-14 20:21:29,,False,False
+81,6,1.201.1,5,good apps,Google Play,English,Positive,None,False,0,2026-06-14 10:09:06,,True,False
+82,6,1.201.1,5,Most convenient petrol app ever!!,Google Play,English,Positive,None,False,0,2026-06-14 08:53:27,,True,False
+83,6,1.202.1,5,very easy to use.,Google Play,English,Positive,None,False,0,2026-06-13 20:45:56,,True,False
+84,6,,5,Fast and reliable,Google Play,English,Positive,None,False,0,2026-06-13 16:19:55,,True,False
+85,6,1.201.1,5,mudah Dan cepat,Google Play,English,Neutral,None,False,0,2026-06-13 15:26:02,,False,False
+86,6,1.201.1,5,"convenient,no need to walk to the counter.",Google Play,English,Positive,None,False,0,2026-06-12 21:06:19,,True,False
+87,6,,5,Great apps !,Google Play,English,Positive,None,False,0,2026-06-12 18:04:42,,True,False
+88,6,1.202.1,5,"Aplikasi ini amat memudahkan pengguna, tanpa perlu pergi ke kaunter dan tidak mendedahkan kad pengenalan kepada orang lain. Bila2 masa dan dimana2 stesen petronas.",Google Play,English,Neutral,None,False,0,2026-06-12 13:10:17,,False,False
+89,6,1.201.1,5,mudah dan cpt bagus,Google Play,English,Neutral,None,False,0,2026-06-12 12:20:57,,False,False
+90,6,1.201.1,5,easy n 👍,Google Play,English,Positive,None,False,0,2026-06-11 16:03:28,,True,False
+91,6,,5,"I will use this app to pay bills if every month has cashback, definitely save a lot and big help for me if this app can provide cashback for paying bills. Really appreciate it if you are listening.",Google Play,English,Neutral,None,False,0,2026-06-11 14:39:41,,False,False
+92,6,1.196.1,5,Easy smooth,Google Play,English,Positive,None,False,0,2026-06-10 22:05:40,,True,False
+93,6,1.201.1,5,mudah utk isi minyak xperlu ke caunter,Google Play,English,Neutral,None,False,0,2026-06-10 17:48:28,,False,False
+94,6,1.201.1,5,Terbaik,Google Play,English,Neutral,None,False,0,2026-06-10 07:09:12,,False,False
+95,6,1.201.1,5,"Easy, hassle free to use",Google Play,English,Positive,None,False,0,2026-06-10 01:35:41,,True,False
+96,6,1.199.0,5,it so easy to use,Google Play,English,Positive,None,False,0,2026-06-09 19:06:45,,True,False
+97,6,1.201.1,5,Marvellous.. Leading the way,Google Play,English,Neutral,None,False,0,2026-06-09 18:37:55,,False,False
+98,6,1.201.1,1,"Account restricted for no reason. New account, restricted right after sign up. Cannot top up or make any payment. Customer support is AI that provide generic answers, and doesnt help. Never wanted to use this app, but forced to use by Kluang local council for parking. Dont understand why the street parking payment in Johor is so stupid. One state, multiple payment apps required for the multiple local councils. Unlike other states can just pay with TNG all in the same app. Please help improve, TQ",Google Play,English,Neutral,None,True,1,2026-06-09 16:09:13,2026-06-10 14:02:52,False,False
+99,6,1.201.1,5,ALHAMDULILLAH Semua Setel dengan SETEL.,Google Play,English,Neutral,None,False,0,2026-06-09 13:30:16,,False,False
+100,6,1.201.1,5,Mudahkan urusan pump minyak petrol,Google Play,English,Neutral,None,False,0,2026-06-09 12:26:38,,False,False
+101,6,1.201.1,5,good,Google Play,English,Positive,None,False,0,2026-06-08 23:57:08,,True,False
+102,6,1.201.1,5,one tap and everything settled!,Google Play,English,Neutral,None,False,0,2026-06-08 11:49:26,,False,False
+103,6,1.201.1,5,terbaik 10 tahun dh guna,Google Play,English,Neutral,None,False,0,2026-06-08 09:59:56,,False,False
+104,6,1.201.1,5,excellent 👍👍👍,Google Play,English,Positive,None,False,0,2026-06-08 08:57:27,,True,False
+105,6,1.201.1,5,Easy Peasy & Highly Recommendes,Google Play,English,Positive,None,False,0,2026-06-08 08:50:48,,True,False
+106,6,1.201.1,5,almost liked,Google Play,English,Neutral,None,False,0,2026-06-07 11:55:56,,False,False
+107,6,1.201.1,5,great apps ! good job 👍,Google Play,English,Positive,None,False,0,2026-06-07 10:47:51,,True,False
+108,6,1.201.1,5,Very Good,Google Play,English,Positive,None,False,0,2026-06-07 06:55:07,,True,False
+109,6,,5,"Setel has made refueling much easier and more convenient. No need to queue at the counter, and payments are quick and seamless. The app is easy to navigate, and I can easily track my fuel purchases and transaction history. Overall, a very useful app that saves time and improves the fueling experience. Highly recommended! 🚗⛽",Google Play,English,Positive,None,False,6,2026-06-06 19:05:35,,True,False
+110,6,1.201.1,5,easy to use especially for first time user :),Google Play,English,Positive,None,False,0,2026-06-06 12:28:23,,True,False
+111,6,,5,untung dan jimat masa,Google Play,English,Neutral,None,False,0,2026-06-06 00:26:12,,False,False
+112,6,1.200.0,5,convenient,Google Play,English,Positive,None,False,0,2026-06-05 19:01:51,,True,False
+113,6,1.201.1,5,Really helpful for a mom with kids alone,Google Play,English,Neutral,None,False,0,2026-06-05 08:09:19,,False,False
+114,6,1.201.1,5,"Bagus, tak payah pergi kaunter",Google Play,English,Neutral,None,False,0,2026-06-04 21:17:14,,False,False
+115,6,1.201.1,5,"For me, Settle is a good application. You can use it at any PETRONAS Petrol Station to purchase petrol. You have to transfer some money into the account before you can purchase & will be deducted from it. Just follow instructions. It will show you all the purchases recorded including your money and petrol balance under Budi95 or Budi Diesel.",Google Play,English,Positive,None,False,0,2026-06-04 09:03:44,,True,False
+116,6,1.201.1,5,"convenient, friendly user. good job! 👏🏻👍🏻",Google Play,English,Positive,None,False,0,2026-06-04 08:10:46,,True,False
+117,6,1.201.1,5,very easy,Google Play,English,Positive,None,False,0,2026-06-03 20:18:24,,True,False
+118,6,1.201.1,5,senang dan mudah,Google Play,English,Neutral,None,False,0,2026-06-03 18:30:42,,False,False
+119,6,1.201.1,5,Cepat dan mudah.,Google Play,English,Neutral,None,False,0,2026-06-03 12:03:29,,False,False
+120,6,1.201.1,5,Settel memang terrrbaik. Memudahkan saya untuk mengumpul poins dan mengisi minyak di Petronas. Terrrbaik.,Google Play,English,Neutral,None,False,0,2026-06-02 21:33:24,,False,False
+121,6,1.201.1,5,urusan mudah cepat dan pantas,Google Play,English,Neutral,None,False,0,2026-06-02 20:53:08,,False,False
+122,6,1.201.1,5,sangat memudahkan setel ni sejak dh tau cra gna saya hnya gunakan petronas utk isi mnyk..,Google Play,English,Neutral,None,False,0,2026-06-01 19:19:39,,False,False
+123,6,1.201.1,5,"Working great. It's more than just an app to refuel the petrol. Easy to access and redeem loyalty point. Good job, developer!",Google Play,English,Positive,None,False,1,2026-06-01 05:22:08,,True,False
+124,6,1.201.1,5,"Serius, dgn pengisian one tap, mudah giler 🤣🤣",Google Play,English,Neutral,None,False,0,2026-05-31 22:18:47,,False,False
+125,6,1.201.1,5,👍,Google Play,English,Neutral,None,False,0,2026-05-31 21:57:12,,False,False
+126,6,1.201.1,5,So convenient and easy to use...,Google Play,English,Positive,None,False,0,2026-05-30 21:58:10,,True,False
+127,6,1.201.1,5,very Convenient.,Google Play,English,Positive,None,False,0,2026-05-30 14:03:31,,True,False
+128,6,1.201.1,1,Sekarang dah kena charges 1% dah bila top up guna card credit maybank... baik x payah guna... baik guna kaunter ja...,Google Play,English,Neutral,None,True,0,2026-05-30 13:17:00,2026-06-10 14:03:19,False,False
+129,6,1.201.1,5,very convenient,Google Play,English,Positive,None,False,0,2026-05-30 10:57:59,,True,False
+130,6,1.201.1,5,cepat dan mudah 👍🥰,Google Play,English,Neutral,None,False,0,2026-05-30 09:29:47,,False,False
+131,6,1.201.1,1,"dekat tng senang verified account untuk budi . dekat sini menyusahkan betol , banyak kali ulang ,entag apa benda yang jadi problem sangat tah . menyusahkan betol",Google Play,English,Negative,Other,True,0,2026-05-29 15:40:49,2026-06-10 14:03:31,False,True
+132,6,1.201.1,5,mantopp,Google Play,English,Neutral,None,False,0,2026-05-29 11:45:51,,False,False
+133,6,1.201.1,5,Easy and convenient. No hassle.,Google Play,English,Positive,None,False,1,2026-05-28 12:03:01,,True,False
+134,6,1.201.1,3,x pernah dapat pun 3x reward,Google Play,English,Neutral,None,True,0,2026-05-27 19:24:47,2026-06-10 14:04:19,False,False
+135,6,,5,easy and smart,Google Play,English,Positive,None,False,0,2026-05-27 19:09:07,,True,False
+136,6,1.201.1,5,mudah dan dipercayai,Google Play,English,Neutral,None,False,0,2026-05-27 16:46:23,,False,False
+137,6,1.201.1,5,Easy to use.,Google Play,English,Positive,None,False,0,2026-05-27 12:19:18,,True,False
+138,6,1.201.1,5,Best apps,Google Play,English,Positive,None,False,0,2026-05-27 08:04:49,,True,False
+139,6,1.201.1,1,"after new update, the app become slower to open and pay..",Google Play,English,Negative,Payment Issues,True,0,2026-05-27 06:47:19,2026-06-10 14:04:31,False,True
+140,6,1.201.1,5,senang dan pantas,Google Play,English,Neutral,None,False,0,2026-05-26 22:05:46,,False,False
+141,6,1.201.1,5,amat memudahkan urusan harian,Google Play,English,Neutral,None,False,0,2026-05-26 15:18:25,,False,False
+142,6,1.201.1,5,so setel☺️,Google Play,English,Neutral,None,False,0,2026-05-25 22:58:19,,False,False
+143,6,1.201.1,5,very good 👍 TQ,Google Play,English,Positive,None,False,0,2026-05-25 22:32:15,,True,False
+144,6,1.201.1,5,for me setel app userfriendly then other app leceh kadang2,Google Play,English,Neutral,None,False,0,2026-05-25 21:44:48,,False,False
+145,6,,1,"paid for parking using setel, I think steel should prompt the user which vehicle to would need to be paid for, if there are more than one vehicle registered in the app.",Google Play,English,Neutral,None,True,0,2026-05-25 14:05:02,2026-06-10 14:04:37,False,False
+146,6,1.187.2,5,very convenient ...,Google Play,English,Positive,None,False,0,2026-05-22 14:22:42,,True,False
+147,6,1.201.1,5,"Convenient, powerful, user friendly,",Google Play,English,Positive,None,False,0,2026-05-22 12:58:37,,True,False
+148,6,1.200.0,5,terbaik... mempermudahkn segala urusan di petrol Pam ... mudah&lancar,Google Play,English,Neutral,None,False,0,2026-05-22 12:31:26,,False,False
+149,6,1.201.1,3,"The app is useful, but here is what I don't like which dropped my rating from 5 to 3. The fund is either a transferrable or non-transferrable. The one with the quickest reload can't be transferred to other account. This info is only prompted to me when I attempted to transfer. NOT when I'm reloading my fund. It should have been the other way around.",Google Play,English,Neutral,None,True,35,2026-05-22 11:09:33,2026-06-10 14:04:45,False,False
+150,6,1.199.0,1,jangan claim mesra reward ke voucher sebab cara claim voucher bila dh leret di kira dh guna walaupon cashier ckp tak boleh guna di situ.,Google Play,English,Neutral,None,True,0,2026-05-21 09:49:04,2026-06-10 14:05:37,False,False
+151,6,1.200.0,5,"easy use, no hassle, quick",Google Play,English,Positive,None,False,0,2026-05-19 22:51:43,,True,False
+152,6,1.200.0,1,"Bill payment show unable to load categories, please try again later, already clear cache and reinstall still same error",Google Play,English,Negative,Payment Issues,True,0,2026-05-19 17:15:48,2026-06-10 14:05:43,False,True
+153,6,1.200.0,5,so easy..,Google Play,English,Positive,None,False,0,2026-05-19 12:42:46,,True,False
+154,6,1.200.0,1,I couldn't even do a verification for these apps. I have been trying so many times but the apps still have an error. Gonna uninstall in soon. mehh,Google Play,English,Negative,Performance,True,0,2026-05-19 09:32:25,2026-06-10 14:07:06,False,True
+155,6,1.200.0,4,mantap,Google Play,English,Neutral,None,False,0,2026-05-19 08:17:38,,False,False
+156,6,1.200.0,5,its the BEST,Google Play,English,Positive,None,False,0,2026-05-18 21:42:23,,True,False
+157,6,1.200.0,5,"until now, there are no other apps come close",Google Play,English,Neutral,None,False,0,2026-05-18 14:15:18,,False,False
+158,6,1.200.0,5,very easy no need everytime IC,Google Play,English,Positive,None,False,0,2026-05-18 08:25:07,,True,False
+159,6,1.199.0,5,easy to use. just got an issue. I need to unlink my old card. please assist,Google Play,English,Negative,Other,False,1,2026-05-18 06:09:09,,True,True
+160,6,1.200.0,5,easy to refill fuel,Google Play,English,Positive,None,False,0,2026-05-17 23:02:06,,True,False
+161,6,1.200.0,5,Mudah... Klik saja terus boleh jalan kereta..,Google Play,English,Neutral,None,False,0,2026-05-17 22:02:44,,False,False
+162,6,1.194.1,5,bagusss... mantap... alhamdulillah...,Google Play,English,Neutral,None,False,0,2026-05-17 21:11:54,,False,False
+163,6,1.200.0,5,easy to use,Google Play,English,Positive,None,False,0,2026-05-17 21:07:41,,True,False
+164,6,1.200.0,5,love it..,Google Play,English,Positive,None,False,0,2026-05-17 13:52:53,,True,False
+165,6,1.198.0,5,manTOP,Google Play,English,Neutral,None,False,0,2026-05-17 10:15:00,,False,False
+166,6,1.199.0,5,"senang wehhh x yah beratur kat kaunter nak bawak IC bagai topup je siap², setel #setel",Google Play,English,Neutral,None,False,0,2026-05-16 19:03:09,,False,False
+167,6,1.200.0,1,Displays wrong Budi95 balance,Google Play,English,Neutral,None,True,0,2026-05-16 10:31:28,2026-06-10 14:35:08,False,False
+168,6,1.200.0,4,add tng as a topup option tq,Google Play,English,Neutral,None,False,0,2026-05-16 06:54:01,,False,False
+169,6,1.199.0,5,memudahkan proses mengisi minyak,Google Play,English,Neutral,None,False,0,2026-05-15 21:57:10,,False,False
+170,6,1.200.0,5,mudah n senang,Google Play,English,Neutral,None,False,0,2026-05-15 14:56:37,,False,False
+171,6,1.200.0,5,"First time guna SETEL, MUDAH SANGAT DENGAN SETEL... I LOVE PETRONAS DGN WUJUDNYA APPS SETEL NI.. RUGI SELAMA NI TAK GUNA SETEL..",Google Play,English,Positive,None,False,0,2026-05-15 12:55:35,,True,False
+172,6,1.200.0,5,memudahkan kerja. jimat masa.,Google Play,English,Neutral,None,False,0,2026-05-15 12:48:39,,False,False
+173,6,1.200.0,5,Fast n efficient 👍,Google Play,English,Positive,None,False,0,2026-05-15 12:04:21,,True,False
+174,6,1.199.0,5,very good,Google Play,English,Positive,None,False,0,2026-05-15 09:55:20,,True,False
+175,6,1.199.0,5,easy to use,Google Play,English,Positive,None,False,0,2026-05-13 20:11:18,,True,False
+176,6,1.199.0,5,easy to use and redeem points,Google Play,English,Positive,None,False,1,2026-05-13 20:04:27,,True,False
+177,6,1.196.1,5,good aps easier to use fill and payment,Google Play,English,Positive,None,False,1,2026-05-13 19:45:43,,True,False
+178,6,1.200.0,5,harus kah kena ada lesen,Google Play,English,Neutral,None,False,0,2026-05-13 18:41:09,,False,False
+179,6,1.199.0,5,great apps,Google Play,English,Positive,None,False,0,2026-05-13 17:58:22,,True,False
+180,6,1.199.0,5,easyyyy,Google Play,English,Positive,None,False,0,2026-05-13 17:01:16,,True,False
+181,6,1.200.0,5,good,Google Play,English,Positive,None,False,0,2026-05-13 03:30:08,,True,False
+182,6,1.199.0,5,mantap.terbaik,Google Play,English,Neutral,None,False,0,2026-05-12 22:41:07,,False,False
+183,6,1.199.0,5,easy to use faster than ever,Google Play,English,Positive,None,False,0,2026-05-12 20:46:44,,True,False
+184,6,1.199.0,1,"After updating the apps, it auto-offed my Budi.This made me fail to claim my petrol transaction, and Steel did not respond to this, just telling me it was non-refundable.Please fix it.",Google Play,English,Negative,Other,True,1,2026-05-12 19:42:01,2026-06-10 14:35:38,False,True
+185,6,1.199.0,5,Always a good,Google Play,English,Positive,None,False,0,2026-05-12 15:55:04,,True,False
+186,6,1.199.0,5,It is very user friendly and the application runs smoothly even during my data line speed connection are slow.,Google Play,English,Negative,Performance,False,3,2026-05-11 23:39:03,,True,True
+187,6,1.199.0,1,slow to many app,Google Play,English,Negative,Performance,True,0,2026-05-11 21:02:05,2026-06-10 14:36:06,False,True
+188,6,1.199.0,5,mudah & pantas. Rugi kalau tak guna,Google Play,English,Neutral,None,False,0,2026-05-11 21:01:14,,False,False
+189,6,1.199.0,5,"very helpful, very easy,save time and energy..love the app ☺️❤️",Google Play,English,Positive,None,False,1,2026-05-11 18:45:17,,True,False
+190,6,1.199.0,5,"easy to use, simple interface, nice reward system",Google Play,English,Positive,None,False,1,2026-05-11 16:39:39,,True,False
+191,6,1.199.0,5,bagus... mudah nak pakai..,Google Play,English,Neutral,None,False,0,2026-05-11 06:47:50,,False,False
+192,6,1.199.0,5,great app...,Google Play,English,Positive,None,False,0,2026-05-11 01:46:31,,True,False
+193,6,1.199.0,5,"helpfull, rewarding, easy to use just clicks away to refuell.",Google Play,English,Positive,None,False,1,2026-05-10 19:23:52,,True,False
+194,6,1.199.0,5,the most practical and easy to use app.,Google Play,English,Positive,None,False,0,2026-05-10 15:31:45,,True,False
+195,6,1.199.0,5,senang dan terbaik..point die pn best,Google Play,English,Positive,None,False,0,2026-05-10 14:57:38,,True,False
+196,6,1.199.0,5,Great apps,Google Play,English,Positive,None,False,0,2026-05-10 12:26:03,,True,False
+197,6,1.199.0,5,"convenient, helpful, transparent. good job petronas.",Google Play,English,Positive,None,False,1,2026-05-09 20:53:39,,True,False
+198,6,1.199.0,5,Each petrol station need to have this,Google Play,English,Neutral,None,False,0,2026-05-09 10:22:46,,False,False
+199,6,,1,"setel guna credit card ada fee 1%,memang menyusahkan...apps plak kdg slow response...",Google Play,English,Negative,Performance,True,0,2026-05-09 09:25:20,2026-06-10 14:36:35,False,True
+200,6,1.196.1,5,good app,Google Play,English,Positive,None,False,0,2026-05-08 22:19:08,,True,False
+201,6,1.199.0,5,Nice,Google Play,English,Neutral,None,False,0,2026-05-08 16:23:30,,False,False
+202,6,1.199.0,5,best app ever,Google Play,English,Positive,None,False,0,2026-05-08 12:28:05,,True,False
+203,6,1.198.0,5,"Mudah, pantas dan reliable...",Google Play,English,Neutral,None,False,0,2026-05-08 11:41:39,,False,False
+204,6,1.199.0,5,Its very convenient & easy as ABC.,Google Play,English,Positive,None,False,1,2026-05-08 08:02:43,,True,False
+205,6,1.199.0,5,Aplikasi petronas paling memudahkan,Google Play,English,Neutral,None,False,0,2026-05-07 11:08:00,,False,False
+206,6,1.199.0,5,good,Google Play,English,Positive,None,False,0,2026-05-06 20:47:12,,True,False
+207,6,1.199.0,5,Easy,Google Play,English,Positive,None,False,0,2026-05-06 09:22:03,,True,False
+208,6,1.199.0,5,thorbaik senang kerja,Google Play,English,Neutral,None,False,0,2026-05-06 09:00:40,,False,False
+209,6,1.198.0,1,"a hassle registration. my mesra kad i made a long time ago was filled with someone else's phone number probably station i registered long time ago. cs kept asking screenshot this that & my email too 🤬. then another security bummer, after i already registered my selfie & ic came along another security verification of the same thing.",Google Play,English,Neutral,None,True,0,2026-04-30 16:02:16,2026-06-10 14:39:53,False,False
+210,6,1.198.0,5,good,Google Play,English,Positive,None,False,0,2026-04-29 14:56:29,,True,False
+211,6,1.198.0,1,I'm having problems with location settings. it can't detect my location! no matter how many times i uninstalled it is still the same. aku nk isi minyak oi!!!,Google Play,English,Negative,Other,True,3,2026-04-28 09:08:46,2026-06-10 14:40:08,False,True
+212,6,1.198.0,5,ezy p z,Google Play,English,Neutral,None,False,0,2026-04-28 07:55:54,,False,False
+213,6,1.198.0,5,Aplikasi yang sangat memudahkan.. cuma perlu topup duit dalam aplikasi settle je.. kemudian pergi mana² stesen minyak petronas dia akan auto detect lokasi.. pilih nombor pam dan buat pembayaran.. tunggu sampai dia kata dah boleh angkat nozel baru kita boleh isi.. sangat membantu jika ramai orang beratur di kaunter pembayaran.. terima kasih settle,Google Play,English,Neutral,None,False,0,2026-04-28 06:47:40,,False,False
+214,6,1.198.0,5,easy use for fuel,Google Play,English,Positive,None,False,0,2026-04-28 02:14:12,,True,False
+215,6,1.198.0,1,cant sign-in,Google Play,English,Neutral,None,True,0,2026-04-27 09:26:39,2026-06-10 14:40:15,False,False
+216,6,,1,Rubbish apps ever,Google Play,English,Neutral,None,True,0,2026-04-26 19:55:32,2026-06-10 14:40:26,False,False
+217,6,1.198.0,1,"dkt petronas seksyen 27 shah alam, tunggu lama nk isi minyak. sistem offline pulakkk",Google Play,English,Neutral,None,True,0,2026-04-24 22:38:53,2026-06-10 14:41:16,False,False
+218,6,1.198.0,5,"mudah,senang dan lebih cepat..dan yg lebih menguntungkan dapat point 3x bile isi selalu guna setel..love setel💕",Google Play,English,Positive,None,False,0,2026-04-23 19:51:28,,True,False
+219,6,1.116.0,1,Petronas online voucher unable use to redeem petrol,Google Play,English,Neutral,None,True,0,2026-04-22 22:19:01,2026-04-24 16:28:52,False,False
+220,6,1.194.3,5,"mudah, cepat, antara apps petrol pump terawal yg boleh buat mcm2",Google Play,English,Neutral,None,False,0,2026-04-22 01:21:54,,False,False
+221,6,1.198.0,5,easy to use,Google Play,English,Positive,None,False,0,2026-04-21 23:25:58,,True,False
+222,6,1.198.0,5,Great,Google Play,English,Positive,None,False,0,2026-04-21 10:33:37,,True,False
+223,6,1.198.0,5,No need to scan IC. Good.,Google Play,English,Positive,None,False,0,2026-04-21 09:17:00,,True,False
+224,6,1.198.0,5,easy & faster 👍🏽👍🏽👍🏽,Google Play,English,Positive,None,False,0,2026-04-20 22:08:21,,True,False
+225,6,1.198.0,5,"mudah, cepat, senang, recommended",Google Play,English,Neutral,None,False,0,2026-04-20 19:54:34,,False,False
+226,6,1.198.0,5,very convenient,Google Play,English,Positive,None,False,0,2026-04-20 10:28:55,,True,False
+227,6,1.198.0,5,Very easy & convenient. Great app,Google Play,English,Positive,None,False,1,2026-04-20 09:26:23,,True,False
+228,6,1.198.0,5,ok,Google Play,English,Neutral,None,False,0,2026-04-20 07:49:29,,False,False
+229,6,1.198.0,5,bole buat compatible dgn smartwatch wear os x,Google Play,English,Neutral,None,False,0,2026-04-19 23:16:26,,False,False
+230,6,1.198.0,5,using Setel makes my life ao mich easier. i don't need to go to the counter nor make any payments manually. just sogn up once and you are set to go. the info on this app is totally sufficient for consumption.,Google Play,English,Neutral,None,False,5,2026-04-19 22:01:00,,False,False
+231,6,1.196.1,5,sangat memuaskan hati. senang mudah. point reward pon best. tambahkan lagi cawangan stesen minyak di semua daerah dan kawasan,Google Play,English,Positive,None,False,0,2026-04-19 21:45:32,,True,False
+232,6,1.198.0,5,the time saver,Google Play,English,Neutral,None,False,0,2026-04-19 21:16:41,,False,False
+233,6,1.194.1,5,good,Google Play,English,Positive,None,False,0,2026-04-19 21:15:23,,True,False
+234,6,1.196.0,5,Using Setel will save time and easy to fueling.,Google Play,English,Positive,None,False,1,2026-04-19 19:23:45,,True,False
+235,6,1.198.0,5,tidak perlu ke kuanter untuk membuat pembayaran. mudah dan cepat,Google Play,English,Neutral,None,False,0,2026-04-19 18:11:21,,False,False
+236,6,1.198.0,5,"easy, convenient, and great for tracking usage",Google Play,English,Positive,None,False,1,2026-04-19 13:10:53,,True,False
+237,6,1.198.0,5,"mudah,cepat & lebih mata ganjaran 😁",Google Play,English,Neutral,None,False,0,2026-04-19 09:25:59,,False,False
+238,6,1.183.5,5,"easy to load, easy to use",Google Play,English,Positive,None,False,0,2026-04-19 09:19:13,,True,False
+239,6,1.198.0,5,"so very convenient! thank you!! From, Ms Kalaiselvi.",Google Play,English,Positive,None,False,0,2026-04-18 16:00:12,,True,False
+240,6,1.198.0,5,Very good,Google Play,English,Positive,None,False,0,2026-04-18 13:26:23,,True,False
+241,6,,3,"before budi95 is create every look easy to access, now even a simple QR transaction is going haywire/all over places. Bring back customer service hotline for those who hard to explaining in the AI chat. Can take example from Grab ewallet",Google Play,English,Positive,None,True,0,2026-04-18 13:07:13,2026-04-24 16:30:27,True,False
+242,6,1.198.0,5,memang menyenangkan semua dihujung jari...nak belanja minyak bila tumpang orang pun boleh...,Google Play,English,Neutral,None,False,0,2026-04-18 08:50:03,,False,False
+243,6,1.196.1,5,sangat mudah dan cepat,Google Play,English,Neutral,None,False,0,2026-04-18 08:33:09,,False,False
+244,6,1.198.0,5,easiest way to get fuel..,Google Play,English,Neutral,None,False,0,2026-04-17 21:59:13,,False,False
+245,6,1.198.0,5,Pantas n gets the job done 👍,Google Play,English,Neutral,None,False,0,2026-04-17 21:27:19,,False,False
+246,6,1.198.0,5,seemless,Google Play,English,Neutral,None,False,0,2026-04-17 09:56:26,,False,False
+247,6,,5,"Easy,reliable and it also have litres in sale.",Google Play,English,Positive,None,False,0,2026-04-17 09:02:57,,True,False
+248,6,,1,there no parking for majlis bandaraya Kuantan Pahang wth... better use touch n go,Google Play,English,Neutral,None,True,0,2026-04-16 10:27:03,2026-04-24 16:27:53,False,False
+249,6,,5,Easy,Google Play,English,Positive,None,False,0,2026-04-16 09:47:01,,True,False
+250,6,,1,"setel ni bahaya, kadang duit hilang. transfer berjaya tetapi duit hilang tah ke mana. email setel mintak bantuan tiada respons. dulu selalu guna apps ni senang, tapi bila dah terkena duit hilang sapa nak percaya. bukak page di FB ka apa, penuh dengan org buat tuntutan.",Google Play,English,Neutral,None,True,1,2026-04-15 23:38:13,2026-04-24 16:44:28,False,False
+251,6,1.196.1,5,sangat memuaskan👍,Google Play,English,Neutral,None,False,0,2026-04-15 22:50:36,,False,False
+252,6,1.196.0,5,easy to use I so proud using app keep going well done,Google Play,English,Positive,None,False,0,2026-04-15 18:34:57,,True,False
+253,6,1.198.0,5,This app is good and easy to use..,Google Play,English,Positive,None,False,0,2026-04-15 14:39:00,,True,False
+254,6,1.198.0,5,First time tested setel app as it's now come with credit card link & for now it's the most complete petrol app in Malaysia.... Good job Setel team...👍👍👍👍👍 ⭐⭐⭐⭐⭐ ..but I'm still stay with my old shell petrol app. It's meet my needs of simple & with credit card link ...😁,Google Play,English,Positive,None,False,3,2026-04-15 13:55:50,,True,False
+255,6,1.198.0,5,"easy to pay, faster and trusted",Google Play,English,Positive,None,False,0,2026-04-15 08:54:45,,True,False
+256,6,1.198.0,5,👍,Google Play,English,Neutral,None,False,0,2026-04-14 19:00:15,,False,False
+257,6,1.198.0,5,"Setel je weyhh!!! Support local, support P !!!",Google Play,English,Neutral,None,False,0,2026-04-14 18:43:35,,False,False
+258,6,1.198.0,5,mudah senang cepat... tak perlu beratur,Google Play,English,Neutral,None,False,0,2026-04-14 17:09:01,,False,False
+259,6,1.196.1,5,Very straight forward and convenience,Google Play,English,Neutral,None,False,0,2026-04-14 08:14:46,,False,False
+260,6,1.198.0,2,"sejak 2,3 hari ni apps x detect pump yg available..yg available pon x boleh payment..",Google Play,English,Neutral,None,True,1,2026-04-14 08:04:34,2026-04-24 16:31:07,False,False
+261,6,1.189.0,5,Memudahkan,Google Play,English,Neutral,None,False,0,2026-04-13 19:07:21,,False,False
+262,6,1.196.1,5,good,Google Play,English,Positive,None,False,0,2026-04-13 17:17:25,,True,False
+263,6,1.196.1,5,sangat mudah & menjimatkan masa,Google Play,English,Neutral,None,False,0,2026-04-13 15:26:07,,False,False
+264,6,1.196.1,5,very easy to use.. love it... mudahkan kerja kita❤️,Google Play,English,Positive,None,False,0,2026-04-13 11:02:49,,True,False
+265,6,1.196.0,5,very easy & friendly,Google Play,English,Positive,None,False,0,2026-04-13 09:23:12,,True,False
+266,6,1.196.1,5,Cepat Dan pantas,Google Play,English,Neutral,None,False,0,2026-04-12 18:00:24,,False,False
+267,6,1.196.1,5,better,Google Play,English,Neutral,None,False,0,2026-04-12 16:25:39,,False,False
+268,6,1.198.0,5,power cing cing,Google Play,English,Neutral,None,False,0,2026-04-12 14:16:33,,False,False
+269,6,1.196.1,5,memudahkan pengguna.. rasa macam boss² je bila guna Setel.. padahal kuli je,Google Play,English,Neutral,None,False,0,2026-04-12 08:59:33,,False,False
+270,6,1.196.1,5,"Memudahkan urusan,menjimatkan masa dan dapat gumpul mata ganjaran..tq Setel..",Google Play,English,Neutral,None,False,0,2026-04-12 03:19:15,,False,False
+271,6,1.198.0,5,"Mudah dan senang, semua maklumat telah ada di dalam apps SETEL..pembelian minyak lagi mudah tanpa perlu keluarkan kad pengenalan. terbaik SETEL & PETRONAS.",Google Play,English,Neutral,None,True,0,2026-04-11 18:07:37,2022-06-11 14:22:04,False,False
+272,6,1.183.4,5,The best,Google Play,English,Positive,None,False,0,2026-04-11 15:36:54,,True,False
+273,6,1.198.0,5,memudahkan urusan di stesen minyak...,Google Play,English,Neutral,None,False,0,2026-04-11 00:07:26,,False,False
+274,6,1.196.1,4,convenient to use,Google Play,English,Positive,None,False,1,2026-04-10 19:09:42,,True,False
+275,6,1.196.1,5,"Setel sangat memudahkan urusan isi minyak, cepat, mesra pengguna dan jimat masa tanpa perlu beratur d kaunter.",Google Play,English,Neutral,None,False,0,2026-04-10 18:58:30,,False,False
+276,6,1.196.1,5,Easy and fast. No need for the hassle to take out NRIC.,Google Play,English,Positive,None,False,2,2026-04-10 11:36:47,,True,False
+277,6,,5,mudah & cepat. nah begini👍👍👍,Google Play,English,Neutral,None,False,0,2026-04-09 23:43:20,,False,False
+278,6,,5,good,Google Play,English,Positive,None,False,0,2026-04-09 09:17:33,,True,False
+279,6,1.196.1,5,baikkk ah,Google Play,English,Neutral,None,False,0,2026-04-09 07:48:13,,False,False
+280,6,1.196.1,5,senang dan mudah,Google Play,English,Neutral,None,False,0,2026-04-09 06:47:24,,False,False
+281,6,1.196.1,5,Terrrbaik. Sennag dan mudah. Takyah beratuq,Google Play,English,Neutral,None,False,0,2026-04-08 22:48:56,,False,False
+282,6,1.196.1,5,very good,Google Play,English,Positive,None,False,0,2026-04-08 19:29:49,,True,False
+283,6,1.196.1,5,Memudahkan urusan masa Jammed,Google Play,English,Neutral,None,False,0,2026-04-08 19:04:44,,False,False
+284,6,1.196.1,5,okay,Google Play,English,Neutral,None,False,0,2026-04-08 18:37:14,,False,False
+285,6,1.196.1,5,tbaikkk sokong yg mlysia punya bntu negara lbih baik,Google Play,English,Neutral,None,False,0,2026-04-08 14:18:33,,False,False
+286,6,1.196.1,5,senang dan mudah... settle je,Google Play,English,Neutral,None,False,0,2026-04-08 13:46:29,,False,False
+287,6,1.196.1,5,very easy,Google Play,English,Positive,None,False,0,2026-04-08 13:24:06,,True,False
+288,6,1.196.1,3,lepas update qr problem,Google Play,English,Negative,Payment Issues,True,1,2026-04-08 10:21:34,2026-04-24 16:47:06,False,True
+289,6,1.196.1,5,nice,Google Play,English,Neutral,None,False,0,2026-04-08 00:27:49,,False,False
+290,6,1.196.1,5,Very convinient and hassle free,Google Play,English,Neutral,None,False,1,2026-04-07 22:18:31,,False,False
+291,6,1.196.1,5,Great apps 👍🏾,Google Play,English,Positive,None,False,0,2026-04-07 11:03:29,,True,False
+292,6,1.196.1,5,convenient,Google Play,English,Positive,None,False,0,2026-04-06 20:18:38,,True,False
+293,6,1.196.1,5,Sangat memudahkan. Tidak perlu jalan ke kaunter terutamanya yang ada anak kecil di kereta. Dan lebih mudah dari guna kad.,Google Play,English,Neutral,None,False,0,2026-04-06 17:37:51,,False,False
+294,6,1.196.1,5,good apps. easier your life,Google Play,English,Positive,None,False,1,2026-04-06 13:45:47,,True,False
+295,6,,5,"Easy and convenient, no nonsense and cumbersome second validation at counter!",Google Play,English,Positive,None,False,1,2026-04-06 11:42:21,,True,False
+296,6,1.196.1,5,musdahkan urusan,Google Play,English,Neutral,None,False,0,2026-04-06 09:05:56,,False,False
+297,6,1.196.1,5,mudah sangat nak select loc & bayaran,Google Play,English,Neutral,None,False,0,2026-04-06 08:48:58,,False,False
+298,6,,1,Setel dah start bermasalah. Aku tunggu transaction topup asyik sangkut je. Poor maintenance!,Google Play,English,Neutral,None,True,0,2026-04-05 15:54:52,2026-04-24 16:29:24,False,False
+299,6,1.196.1,5,easy pump how many liters you like,Google Play,English,Positive,None,False,1,2026-04-05 11:52:16,,True,False
+300,6,1.196.1,5,the best so far for BUDI95 feul,Google Play,English,Positive,None,False,1,2026-04-04 23:50:42,,True,False
+301,6,1.196.1,5,good,Google Play,English,Positive,None,False,0,2026-04-04 22:29:45,,True,False
+302,6,1.196.1,5,Ia sangat menyenangkan keja sy.. Xperlu beratur panjang.. Terbaik Petronas..,Google Play,English,Neutral,None,False,0,2026-04-04 18:56:17,,False,False
+303,6,1.196.1,5,good apps,Google Play,English,Positive,None,False,0,2026-04-04 17:04:06,,True,False
+304,6,1.196.1,5,good quality product,Google Play,English,Positive,None,False,1,2026-04-03 21:42:10,,True,False
+305,6,1.196.1,5,okay laa senang diguna,Google Play,English,Neutral,None,False,0,2026-04-03 18:38:34,,False,False
+306,6,1.196.1,1,dah top up duit ..kat app ni..time emergency nak isi minyak..app x function pula.,Google Play,English,Neutral,None,True,1,2026-04-03 14:51:22,2026-04-24 16:28:12,False,False
+307,6,1.193.1,5,"mudah senang dan cepat.Jimat masa.Tak perlu beratur , pergi ke kaunter untuk mengisi minyak.Terbaik",Google Play,English,Neutral,None,False,0,2026-04-03 08:12:51,,False,False
+308,6,1.196.1,1,"1st time renew motor insurance and roadtax via the apps, bad experience, payment have been done, but no policy and no road tax. Even after download the etiqa apps no policy exist and my roadtax renewal failed but the payment already done via Setel. Setel got the money but I didn't get nothing. Still waiting for their team to follow up and update me.",Google Play,English,Negative,Payment Issues,True,2,2026-04-02 21:38:55,2026-04-24 16:37:50,False,True
+309,6,,1,super suck can't even apply mybudi properly + petro station who didnt understand anything.....lucky only get the gift card if not will never use this apps ever again,Google Play,English,Neutral,None,True,1,2026-04-02 13:47:22,2026-04-24 16:27:30,False,False
+310,6,1.196.1,4,"easy bitsy app for fuel up gas at Petronas.. need users more careful, patient, manners, focus and don't so blur with pump number.. cancellation procedure a lil bit worse.. need wait for approval & refund.. before start back",Google Play,English,Negative,Other,False,1,2026-04-02 13:44:06,,True,True
+311,6,1.196.1,1,Annoying app. Get rid of this. DO BETTER NEXT TIME PETRONAS. I AM IN RUSH AND WANT TO TOP-UP MY ACCOUNT SO I CAN PURCHASE FUEL. IT SAYS IT NEED A MINUTE TO PROCESS THE TRANSACTION. 10 WHOLE MINUTES HAVE GONE BY!! I CAN'T EVEN CANCEL THE TRANSACTION. WASTE IF MY TIME. USELESS PEOPLE,Google Play,English,Neutral,None,True,2,2026-04-02 13:29:21,2026-04-24 16:23:00,False,False
+312,6,1.196.1,5,convenient,Google Play,English,Positive,None,False,0,2026-04-02 10:01:24,,True,False
+313,6,1.196.1,5,good,Google Play,English,Positive,None,False,0,2026-04-02 06:59:56,,True,False
+314,6,1.196.1,5,easy to use,Google Play,English,Positive,None,False,1,2026-04-01 22:19:45,,True,False
+315,6,1.196.1,1,"antara app paling bangang sya pernah cuba. saya baru install.. ""Link this phone as a trusted device now"".. dan mintak passcode.. saya tak pernah set apa²... tak boleh ke buat mudah sikit",Google Play,English,Neutral,None,True,0,2026-04-01 21:36:41,2026-04-24 16:28:10,False,False
+316,6,1.196.1,5,Sangat² memudahkan. X perlu mo berbaris d kaunter sdh,Google Play,English,Neutral,None,False,0,2026-04-01 19:34:52,,False,False
+317,6,1.196.1,5,best,Google Play,English,Positive,None,False,0,2026-04-01 19:18:33,,True,False
+318,6,1.196.1,1,stop changing app icon art every single update,Google Play,English,Neutral,None,True,1,2026-04-01 16:31:40,2026-04-24 16:27:00,False,False
+319,6,1.183.4,5,terbaik,Google Play,English,Neutral,None,False,0,2026-04-01 15:29:00,,False,False
+320,6,1.196.0,5,So far steady sja,Google Play,English,Neutral,None,False,0,2026-04-01 14:02:02,,False,False
+321,6,1.196.1,1,"i change my rate from 5 to 1. the payment nowadays always failed. as of today i tried to pay the parking fees 5times, failed and your service unable to process the payment. very dissapointed. kena saman lah kejap lagi. thanks setel for ur unsettling service.",Google Play,English,Negative,Payment Issues,True,4,2026-04-01 09:50:54,2026-04-24 16:23:10,False,True
+322,6,1.196.1,5,mudah,Google Play,English,Neutral,None,False,0,2026-04-01 09:40:17,,False,False
+323,6,1.196.1,5,ok,Google Play,English,Neutral,None,False,0,2026-04-01 00:00:40,,False,False
+324,6,1.196.1,5,good,Google Play,English,Positive,None,False,0,2026-03-31 23:29:59,,True,False
+325,6,1.196.1,5,Senang & cepat,Google Play,English,Neutral,None,False,0,2026-03-31 22:19:44,,False,False
+326,6,1.196.1,5,"Easy to use, promoting Cash less into Another level",Google Play,English,Positive,None,False,2,2026-03-31 20:12:23,,True,False
+327,6,1.196.0,5,"Easy, rewarded, anything that you would like to know about Petronas :)",Google Play,English,Positive,None,False,1,2026-03-31 19:22:49,,True,False
+328,6,1.196.1,2,cannot top up,Google Play,English,Neutral,None,True,1,2026-03-31 18:51:42,2026-04-24 16:26:21,False,False
+329,6,1.196.1,5,Easy to use,Google Play,English,Positive,None,False,1,2026-03-31 17:35:50,,True,False
+330,6,1.196.1,5,very convenient,Google Play,English,Positive,None,False,0,2026-03-31 14:01:59,,True,False
+331,6,1.196.1,5,Sgt² mudah,Google Play,English,Neutral,None,True,0,2026-03-31 07:18:35,2022-08-30 23:57:19,False,False
+332,6,1.196.1,5,easy to use and collect point,Google Play,English,Positive,None,False,1,2026-03-31 05:43:51,,True,False
+333,6,1.196.0,5,sgt function,Google Play,English,Neutral,None,False,0,2026-03-30 21:53:08,,False,False
+334,6,1.196.0,5,Staff were very friendly and helpful. This has make Setel a user friendly tool for seniors citizens.....,Google Play,English,Neutral,None,False,2,2026-03-30 15:45:01,,False,False
+335,6,1.196.1,5,Mudah dan senang untuk isi minyak petrol,Google Play,English,Neutral,None,False,0,2026-03-30 13:51:13,,False,False
+336,6,1.183.4,1,More updates: Application charges 1% for credit card for convenience fee. Must be a joke. This is why I use Shell and Caltex because they don't charge me anything. Using card should not have incur charges to the users. If you annualize this 1% it's basically 12% per annum.,Google Play,English,Neutral,None,True,1,2026-03-30 11:37:17,2020-09-18 21:55:08,False,False
+337,6,1.196.1,5,Sangat memudahkan,Google Play,English,Neutral,None,False,0,2026-03-30 10:55:03,,False,False
+338,6,1.196.0,5,Easy,Google Play,English,Positive,None,False,0,2026-03-29 23:33:42,,True,False
+339,6,1.196.1,5,sangat senang dan laju,Google Play,English,Neutral,None,False,0,2026-03-29 17:44:58,,False,False
+340,6,1.196.1,5,Ease your life when refueling,Google Play,English,Neutral,None,False,0,2026-03-29 10:36:00,,False,False
+341,6,1.196.1,5,really easy to use and user friendly,Google Play,English,Positive,None,False,1,2026-03-28 22:20:53,,True,False
+342,6,1.196.1,5,very user convenient and user friendly,Google Play,English,Positive,None,False,1,2026-03-28 19:48:42,,True,False
+343,6,1.196.1,5,good apps,Google Play,English,Positive,None,False,0,2026-03-28 15:05:56,,True,False
+344,6,,5,Very easy and fast. No need to buy at counter at all.,Google Play,English,Positive,None,False,2,2026-03-28 12:05:55,,True,False
+345,6,1.196.1,5,mantap kuda,Google Play,English,Neutral,None,False,0,2026-03-28 11:58:52,,False,False
+346,6,1.196.1,5,still got limit rm200 even have verified my phone android 16,Google Play,English,Neutral,None,False,0,2026-03-28 11:21:39,,False,False
+347,6,1.196.0,5,"Mudah dan senang. Terbaik.. cuma skrg ni, kalau offline. Nak beli topup Setel.. akan jadi susah. Ye la . Kita old school. Jadi tuang minyak dan minta resit. Resit pula dah x boleh send mcm mula² setel ini wujud. Pihak berkenaan.. mudah²kan la perkara tsb. Tidak semua org berduit yg boleh topup secara automatik direct dari debit/kredit..",Google Play,English,Neutral,None,True,0,2026-03-27 11:08:53,2021-12-21 15:11:43,False,False
+348,6,1.196.0,5,Simple & fast,Google Play,English,Positive,None,False,1,2026-03-27 11:06:47,,True,False
+349,6,1.196.0,5,"This apps is very simple,easy & i really like it..no more que,just park the car and fill fuel..thank you #Setel..keep up",Google Play,English,Positive,None,True,3,2026-03-26 14:05:01,2021-12-10 15:47:09,True,False
+350,6,1.196.1,5,Senang,Google Play,English,Neutral,None,False,0,2026-03-26 12:02:58,,False,False
+351,6,1.193.1,5,mudah dan pantas,Google Play,English,Neutral,None,False,0,2026-03-26 07:36:02,,False,False
+352,6,1.196.1,5,Good,Google Play,English,Positive,None,False,0,2026-03-26 07:06:14,,True,False
+353,6,,5,good,Google Play,English,Positive,None,False,0,2026-03-26 01:22:30,,True,False
+354,6,1.196.0,5,Mesti ada duit dalam Bank,Google Play,English,Neutral,None,False,0,2026-03-25 18:47:41,,False,False
+355,6,1.196.1,5,friendly,Google Play,English,Neutral,None,False,0,2026-03-25 12:32:51,,False,False
+356,6,1.196.0,5,good service 👍,Google Play,English,Positive,None,False,0,2026-03-25 11:36:32,,True,False
+357,6,1.196.0,5,World Best Service,Google Play,English,Positive,None,False,1,2026-03-25 10:21:48,,True,False
+358,6,1.196.0,2,"Too many update, release app without proper testing.",Google Play,English,Neutral,None,True,31,2026-03-25 10:18:54,2026-04-24 16:26:08,False,False
+359,6,1.196.1,5,nice to see,Google Play,English,Neutral,None,False,0,2026-03-25 00:38:22,,False,False
+360,6,1.196.0,5,memudahkan urusan,Google Play,English,Neutral,None,False,0,2026-03-24 23:54:23,,False,False
+361,6,1.196.0,5,"easy to use, amazing",Google Play,English,Positive,None,False,1,2026-03-24 22:56:24,,True,False
+362,6,1.196.0,5,terbaik,Google Play,English,Neutral,None,False,0,2026-03-24 22:17:00,,False,False
+363,6,1.196.0,5,very easy to by fuel and kedai mesra.. Recommend to fmly to use apps setel..,Google Play,English,Positive,None,False,3,2026-03-24 22:08:45,,True,False
+364,6,1.196.0,5,good product and service,Google Play,English,Positive,None,False,1,2026-03-24 17:17:03,,True,False
+365,6,1.196.0,5,The best app for fuel purchase,Google Play,English,Positive,None,False,1,2026-03-24 12:15:39,,True,False
+366,6,,5,"good, 👍👍👍",Google Play,English,Positive,None,False,0,2026-03-24 07:21:15,,True,False
+367,6,1.196.0,5,Best app,Google Play,English,Positive,None,False,0,2026-03-23 13:17:38,,True,False
+368,6,1.196.0,5,Its so convenient and easy to use.. 🤙🏼,Google Play,English,Positive,None,False,1,2026-03-22 22:27:47,,True,False
+369,6,1.196.0,5,Very useful.,Google Play,English,Neutral,None,False,0,2026-03-22 19:04:45,,False,False
+370,6,1.196.0,5,Setel is quick and easy to use.,Google Play,English,Positive,None,False,2,2026-03-22 16:39:01,,True,False
+371,6,,5,Nice,Google Play,English,Neutral,None,False,0,2026-03-22 13:29:39,,False,False
+372,6,1.196.0,5,"easy to use, faster payment. all good 👍🏻.",Google Play,English,Positive,None,False,1,2026-03-21 20:40:14,,True,False
+373,6,1.196.0,5,good apps,Google Play,English,Positive,None,False,0,2026-03-21 13:55:40,,True,False
+374,6,1.196.0,5,"Quick, without fuss",Google Play,English,Neutral,None,False,1,2026-03-21 10:03:30,,False,False
+375,6,1.196.0,5,Mudah dan tak perlu beratur,Google Play,English,Neutral,None,False,0,2026-03-20 08:44:08,,False,False
+376,6,1.196.0,5,saya dah pakai system ini sejak diperkenalkan lebih dari 5 tahun lagi,Google Play,English,Neutral,None,False,0,2026-03-20 06:49:57,,False,False
+377,6,,5,easy,Google Play,English,Positive,None,False,0,2026-03-19 20:23:02,,True,False
+378,6,1.196.0,5,Aplikasi yang mudah.. Dah memudahkan..,Google Play,English,Neutral,None,False,0,2026-03-19 18:11:26,,False,False
+379,6,1.196.0,1,"App keeps log out on its own. Have to re login every 30 second. Tried to reinstall many times, but the result was still the same.",Google Play,English,Neutral,None,True,2,2026-03-19 13:40:59,2026-04-24 16:23:17,False,False
+380,6,,5,apps yg BAIK mempermudahkan urusan saya n kamu,Google Play,English,Neutral,None,False,0,2026-03-19 10:30:05,,False,False
+381,6,1.196.0,5,terbaikkkkk,Google Play,English,Neutral,None,False,0,2026-03-19 09:02:46,,False,False
+382,6,1.196.0,5,"easy, no need to use credit card or cash money. love it!",Google Play,English,Positive,None,False,2,2026-03-19 06:03:56,,True,False
+383,6,,5,👍,Google Play,English,Neutral,None,False,0,2026-03-18 22:48:29,,False,False
+384,6,1.196.0,5,setel is good,Google Play,English,Positive,None,False,0,2026-03-18 19:33:27,,True,False
+385,6,1.194.3,5,Best guna,Google Play,English,Positive,None,False,0,2026-03-18 12:34:17,,True,False
+386,6,1.196.0,5,terbaik padu laju mantap,Google Play,English,Neutral,None,False,0,2026-03-17 22:04:03,,False,False
+387,6,1.196.0,5,sempoi,Google Play,English,Neutral,None,False,0,2026-03-17 21:35:39,,False,False
+388,6,1.194.3,5,easy to setle,Google Play,English,Positive,None,False,1,2026-03-17 17:23:37,,True,False
+389,6,1.196.0,5,vgood,Google Play,English,Positive,None,False,0,2026-03-17 07:49:07,,True,False
+390,6,1.194.3,5,"Mudah, cepat dan jimat masa",Google Play,English,Neutral,None,False,0,2026-03-16 14:17:58,,False,False
+391,6,1.194.3,5,apps yang paling berguna..,Google Play,English,Neutral,None,False,0,2026-03-16 07:28:50,,False,False
+392,6,1.196.0,5,Easy,Google Play,English,Positive,None,False,0,2026-03-15 21:08:13,,True,False
+393,6,1.194.3,1,"renew insurans..dh bayar,diaorg pn dh terima pastu renew failed..dia bgtau nk refund tp dari 23/02/2026 sampai sekarang 15/03/2026 tak dapat refund tu..menyusahkan",Google Play,English,Negative,Other,True,0,2026-03-15 18:08:19,2026-04-24 16:25:34,False,True
+394,6,1.196.0,5,Very useful,Google Play,English,Neutral,None,False,0,2026-03-14 22:08:13,,False,False
+395,6,1.196.0,5,Very convenient. I love it. Just as convenient as TnG.,Google Play,English,Positive,None,False,1,2026-03-14 15:53:33,,True,False
+396,6,1.196.0,5,fun to use 😘,Google Play,English,Neutral,None,False,1,2026-03-14 09:10:07,,False,False
+397,6,1.194.3,5,Easy to use,Google Play,English,Positive,None,False,1,2026-03-14 07:48:02,,True,False
+398,6,1.196.0,5,"Memudahkan pembelian, menjimatkan masa, tak perlu beratur dikaunter dan mata ganjaran juga berganda.",Google Play,English,Neutral,None,False,0,2026-03-13 13:10:10,,False,False
+399,6,1.194.3,5,Malaysia boleh,Google Play,English,Neutral,None,False,0,2026-03-13 10:37:25,,False,False
+400,6,1.194.3,5,easy to fuel pump...no need go to counter...malay cakap malas aku nak jalan ke counter...,Google Play,English,Positive,None,False,0,2026-03-13 08:46:41,,True,False
+401,6,1.194.3,5,very fast and easy when refueling my car,Google Play,English,Positive,None,False,1,2026-03-13 07:20:56,,True,False
+402,6,1.194.3,5,best,Google Play,English,Positive,None,False,0,2026-03-13 07:03:42,,True,False
+403,6,1.196.0,5,Very easy and fast.,Google Play,English,Positive,None,False,1,2026-03-13 04:24:46,,True,False
+404,6,1.194.3,2,Cooling period applied everytime i need to log in and it logs me out automatically every now and then. inconvenient,Google Play,English,Positive,None,True,2,2026-03-12 16:27:06,2026-04-24 16:25:54,True,False
+405,6,1.194.3,5,bagus tak perlu pergi ke kaunter utk bt pembayaran,Google Play,English,Neutral,None,False,0,2026-03-12 15:44:30,,False,False
+406,6,1.194.3,5,easy and reliable👍👍,Google Play,English,Positive,None,False,1,2026-03-12 09:58:22,,True,False
+407,6,1.194.3,5,Terbaik sekali,Google Play,English,Neutral,None,False,0,2026-03-11 23:15:56,,False,False
+408,6,1.190.0,5,memudahkan urusan saya,Google Play,English,Neutral,None,False,0,2026-03-11 21:15:30,,False,False
+409,6,1.194.3,5,Terbaik Sangat SETEL,Google Play,English,Neutral,None,True,0,2026-03-11 21:14:37,2024-07-03 19:28:52,False,False
+410,6,1.194.3,5,Make my life easier. No need to long queue.,Google Play,English,Neutral,None,False,1,2026-03-11 21:02:19,,False,False
+411,6,1.194.3,5,great apps,Google Play,English,Positive,None,False,0,2026-03-11 19:40:01,,True,False
+412,6,1.194.3,5,Brilliant transaction,Google Play,English,Neutral,None,False,0,2026-03-11 19:30:29,,False,False
+413,6,1.194.3,5,Nice,Google Play,English,Neutral,None,False,0,2026-03-11 13:38:06,,False,False
+414,6,1.194.3,5,"Make easy for transaction and refueling, make more cash back vouchers and promotions.",Google Play,English,Positive,None,False,2,2026-03-11 10:42:50,,True,False
+415,6,1.194.2,5,mudahkan urusan pembelian minyak petrol di PETRONAS,Google Play,English,Neutral,None,False,0,2026-03-10 17:47:09,,False,False
+416,6,1.194.3,4,"so far so good, not bad..👍",Google Play,English,Negative,Other,False,1,2026-03-10 14:16:15,,True,True
+417,6,1.194.3,5,"Menjimatkan masa, tenaga dan wang ringgit anda. Mudah, cepat dan canggih.",Google Play,English,Neutral,None,False,0,2026-03-10 13:28:35,,False,False
+418,6,1.194.3,5,need to upgrade New systems in the Apps. can promote the interesting marketing for future purposes. also can get new customer using this Apps to be stronger.thank you!,Google Play,English,Neutral,None,False,1,2026-03-10 12:53:14,,False,False
+419,6,,5,baik,Google Play,English,Neutral,None,False,0,2026-03-09 18:31:35,,False,False
+420,6,1.194.3,5,easyyyy,Google Play,English,Positive,None,False,0,2026-03-09 10:17:21,,True,False
+421,6,1.194.3,5,program terbaik dari Petronas. tak perlu berbaris di counter. dapat point lagi. terima kasih,Google Play,English,Neutral,None,False,0,2026-03-09 09:01:45,,False,False
+422,6,1.194.3,1,"aplikasi ini bodoh,ketika kamu gagal.membuat pembayaran walaupun hanya kerana line tidak kuat,sekali gagal ianya akan menunggu masa yang lamak sekali untuk mengisi semula,di situlah masalah yan terutama,terpaksa saya bayar pakai cash dan ic selalu!!!",Google Play,English,Neutral,None,True,0,2026-03-08 19:00:27,2026-03-12 14:18:33,False,False
+423,6,1.194.3,5,good apps easy to use,Google Play,English,Positive,None,False,1,2026-03-08 17:38:58,,True,False
+424,6,1.194.3,5,Superb experience ....really awesome,Google Play,English,Neutral,None,False,1,2026-03-08 17:12:52,,False,False
+425,6,1.194.3,5,mudah,Google Play,English,Neutral,None,False,0,2026-03-08 15:21:08,,False,False
+426,6,1.186.0,1,"tiada fungsi qr untuk topup dan tf, leceh mau topup...",Google Play,English,Neutral,None,True,0,2026-03-08 12:46:00,2026-03-12 14:18:14,False,False
+427,6,1.194.3,5,good tapi app caltex lagi bagu bagi bonus n mudah.,Google Play,English,Positive,None,False,0,2026-03-08 11:54:19,,True,False
+428,6,1.194.3,5,Convenient,Google Play,English,Positive,None,False,0,2026-03-08 06:28:21,,True,False
+429,6,1.194.3,5,Super convenient,Google Play,English,Positive,None,False,0,2026-03-08 00:09:32,,True,False
+430,6,,5,useful,Google Play,English,Neutral,None,False,0,2026-03-07 16:45:49,,False,False
+431,6,1.194.3,5,sangat memudahkan urusan,Google Play,English,Neutral,None,False,0,2026-03-07 14:26:28,,False,False
+432,6,1.193.1,5,kerajaan madani The best,Google Play,English,Positive,None,False,0,2026-03-07 04:58:57,,True,False
+433,6,1.194.3,4,easy to fill up fuel..no need to pay at counter smooth features,Google Play,English,Positive,None,False,3,2026-03-06 23:18:23,,True,False
+434,6,1.194.3,5,fast and easy to use,Google Play,English,Positive,None,False,1,2026-03-06 15:52:24,,True,False
+435,6,1.194.3,5,pembayar menjadi mudah.. dan senang.. dan bnyak bnyak bonos,Google Play,English,Neutral,None,False,0,2026-03-06 14:39:53,,False,False
+436,6,1.193.1,5,bagus,Google Play,English,Neutral,None,False,0,2026-03-06 10:27:18,,False,False
+437,6,1.194.1,5,fast and efficient!,Google Play,English,Positive,None,False,2,2026-03-06 09:48:51,,True,False
+438,6,1.194.3,5,aps paling terbaik untuk syarikat minyak kt malaysia,Google Play,English,Neutral,None,False,0,2026-03-06 07:39:52,,False,False
+439,6,1.194.1,5,nice apps,Google Play,English,Neutral,None,False,0,2026-03-06 00:25:28,,False,False
+440,6,1.194.3,5,Best,Google Play,English,Positive,None,False,0,2026-03-05 21:28:32,,True,False
+441,6,1.194.3,5,Amazing and efficient UI,Google Play,English,Neutral,None,False,2,2026-03-05 13:29:32,,False,False
+442,6,1.194.3,5,best guna ni..mudah isi petrol kereta..,Google Play,English,Positive,None,False,0,2026-03-05 12:47:04,,True,False
+443,6,1.194.3,5,👍👍👍,Google Play,English,Neutral,None,False,0,2026-03-05 07:34:22,,False,False
+444,6,1.183.6,5,verry 👍,Google Play,English,Neutral,None,False,0,2026-03-05 06:14:19,,False,False
+445,6,1.194.3,5,so easy to use quite lots of promos contests etc....,Google Play,English,Positive,None,False,2,2026-03-04 20:35:20,,True,False
+446,6,1.194.3,5,easy to used,Google Play,English,Positive,None,False,0,2026-03-04 19:13:52,,True,False
+447,6,1.194.3,4,very good indeed,Google Play,English,Positive,None,False,0,2026-03-04 18:22:57,,True,False
+448,6,1.194.3,1,sudah 5 kali buat verification acc.. tapi fail.. perlu buat kat tempat cerah bukan dalam lampu bilik,Google Play,English,Neutral,None,True,0,2026-03-04 11:24:24,2026-03-12 14:17:55,False,False
+449,6,1.194.3,1,"processing topup tu sampai mampus, sampah punya apps, lembab , company kaya raya , kasi developer server murah, server beli 2nd hand ke apa ?",Google Play,English,Neutral,None,True,0,2026-03-04 10:20:44,2026-03-12 14:17:21,False,False
+450,6,1.194.2,5,"UPDATED: Please make options auto topup every month, not by min amount UPDATE: Change from 4 to 5 stars. The best app in my life. Make my life easy. Thank you SETEL Team.",Google Play,English,Positive,None,True,7,2026-03-03 22:01:57,2021-01-15 16:42:38,True,False
+451,6,1.194.3,1,"I would like to report an issue regarding the top-up function in the Setel app. After I approve the transaction in my banking app, the Setel top-up interface frequently disconnects. Once disconnected, the top-up process is significantly delayed and takes a long time to be reflected in the app. This creates uncertainty about whether the transaction was successful and causes inconvenience. Please investigate this issue and improve the stability of the top-up interface.",Google Play,English,Negative,UI / UX,True,2,2026-03-03 17:22:28,2026-03-12 14:16:56,False,True
+452,6,1.194.3,4,ok,Google Play,English,Neutral,None,False,0,2026-03-03 17:03:55,,False,False
+453,6,1.194.3,5,very convenient to use,Google Play,English,Positive,None,False,1,2026-03-03 14:26:24,,True,False
+454,6,1.194.3,5,Setel it's the best and marvellous apps,Google Play,English,Positive,None,False,2,2026-03-03 06:33:32,,True,False
+455,6,,5,wow,Google Play,English,Neutral,None,False,0,2026-03-03 01:27:53,,False,False
+456,6,1.194.1,5,easy,Google Play,English,Positive,None,False,0,2026-03-02 16:54:02,,True,False
+457,6,1.194.3,5,The workers and staff in the fuel station are very keen to help whenever you need assistance to use the Setel,Google Play,English,Neutral,None,False,2,2026-03-02 09:17:57,,False,False
+458,6,1.194.3,5,very easy n friendly apps,Google Play,English,Positive,None,False,1,2026-03-02 05:57:25,,True,False
+459,6,,4,tbaek,Google Play,English,Neutral,None,False,0,2026-03-01 18:08:21,,False,False
+460,6,1.186.0,5,cepat,Google Play,English,Neutral,None,False,0,2026-03-01 17:53:37,,False,False
+461,6,1.194.1,5,a very good system,Google Play,English,Positive,None,False,0,2026-03-01 17:15:56,,True,False
+462,6,,5,Easy peasy.....love it,Google Play,English,Positive,None,False,0,2026-03-01 13:35:24,,True,False
+463,6,,5,best apps,Google Play,English,Positive,None,False,0,2026-02-28 23:16:24,,True,False
+464,6,1.194.1,5,terbaik kopio,Google Play,English,Neutral,None,False,0,2026-02-28 20:14:40,,False,False
+465,6,1.194.3,5,good,Google Play,English,Positive,None,False,0,2026-02-27 12:47:39,,True,False
+466,6,1.194.3,5,ok,Google Play,English,Neutral,None,False,0,2026-02-27 07:41:09,,False,False
+467,6,1.194.3,5,verry good effort,Google Play,English,Positive,None,False,0,2026-02-27 07:24:59,,True,False
+468,6,1.194.1,5,bagus,Google Play,English,Neutral,None,False,0,2026-02-27 04:58:21,,False,False
+469,6,1.194.1,5,senang mengunakan ny Dan saya sangat sangat suka ❤️❤️✨✨✨,Google Play,English,Neutral,None,False,0,2026-02-26 22:40:03,,False,False
+470,6,1.194.1,5,Terbaik. Setakat sekarang memang puas hati. Memudahkan urusan. Tq,Google Play,English,Neutral,None,False,0,2026-02-26 07:05:18,,False,False
+471,6,1.194.3,5,terbaik,Google Play,English,Neutral,None,False,0,2026-02-26 06:49:23,,False,False
+472,6,1.194.3,5,terbaik Petronas 👍👍👍👍👍,Google Play,English,Neutral,None,False,0,2026-02-26 01:39:54,,False,False
+473,6,1.194.1,5,wonderful,Google Play,English,Neutral,None,False,0,2026-02-25 22:10:19,,False,False
+474,6,1.194.3,5,"Easy, fast and so reliable!!!",Google Play,English,Positive,None,False,1,2026-02-25 17:10:35,,True,False
+475,6,1.194.3,5,Mantap,Google Play,English,Neutral,None,False,0,2026-02-25 16:39:34,,False,False
+476,6,1.194.3,5,Mudah,Google Play,English,Neutral,None,False,0,2026-02-25 15:49:50,,False,False
+477,6,1.194.1,5,ok,Google Play,English,Neutral,None,False,0,2026-02-25 12:20:16,,False,False
+478,6,1.194.1,5,"It's so convinient to use, thnks",Google Play,English,Neutral,None,False,2,2026-02-25 08:54:09,,False,False
+479,6,1.194.3,5,make life easier,Google Play,English,Neutral,None,False,0,2026-02-25 08:12:20,,False,False
+480,6,1.194.3,3,keep crashing with the camera at the Verify stage,Google Play,English,Negative,Performance,True,1,2026-02-24 22:57:41,2026-02-25 16:03:07,False,True
+481,6,1.194.1,5,super fast,Google Play,English,Positive,None,False,0,2026-02-24 21:43:03,,True,False
+482,6,1.194.2,5,good,Google Play,English,Positive,None,False,0,2026-02-24 18:26:16,,True,False
+483,6,1.194.1,5,Superb,Google Play,English,Neutral,None,False,0,2026-02-24 17:36:19,,False,False
+484,6,1.194.2,5,Execellent,Google Play,English,Neutral,None,False,0,2026-02-24 15:40:04,,False,False
+485,6,1.194.1,5,mudah,Google Play,English,Neutral,None,False,0,2026-02-24 10:23:16,,False,False
+486,6,1.194.1,5,Best. Sesuai dengan namanya. Settle!,Google Play,English,Positive,None,False,1,2026-02-24 09:24:47,,True,False
+487,6,1.194.1,5,memudahkan urusan mengisi minyak,Google Play,English,Neutral,None,False,0,2026-02-24 07:34:55,,False,False
+488,6,1.194.2,5,easy and give more some e wallet tngo,Google Play,English,Positive,None,False,2,2026-02-24 00:45:01,,True,False
+489,6,1.194.2,1,Loading and bug..please fix it,Google Play,English,Negative,Performance,True,1,2026-02-23 19:02:20,2026-02-25 16:03:20,False,True
+490,6,1.194.1,5,mudah & jimat masa tak perlu pergi kauter,Google Play,English,Neutral,None,False,0,2026-02-23 17:35:22,,False,False
+491,6,1.194.2,4,proses semak tambah nilai bermasalah @ lambat.,Google Play,English,Neutral,None,True,0,2026-02-23 17:03:40,2025-05-01 15:25:26,False,False
+492,6,1.138.0,1,Stupid apps,Google Play,English,Neutral,None,True,0,2026-02-23 15:39:54,2026-02-25 16:03:32,False,False
+493,6,1.194.1,5,Memudahkan untuk pengguna kan mengisi minyak,Google Play,English,Neutral,None,False,0,2026-02-23 14:46:39,,False,False
+494,6,1.194.1,5,easy to use..user friendly,Google Play,English,Positive,None,False,1,2026-02-23 07:36:22,,True,False
+495,6,1.194.1,5,dapat point,Google Play,English,Neutral,None,False,0,2026-02-22 23:56:22,,False,False
+496,6,1.194.1,5,friendly apps... I like!,Google Play,English,Neutral,None,False,2,2026-02-22 23:05:12,,False,False
+497,6,1.194.1,5,"so far, this the best apps for online payments in which each point can be converted back into cash.",Google Play,English,Positive,None,False,2,2026-02-22 22:22:08,,True,False
+498,6,1.194.1,5,excellent,Google Play,English,Positive,None,False,0,2026-02-22 19:55:00,,True,False
+499,6,1.194.1,5,app paling terbaik utk fuel minyak. mudah n senang guna.,Google Play,English,Neutral,None,False,0,2026-02-22 19:49:46,,False,False
+500,6,1.194.1,4,Good,Google Play,English,Positive,None,False,0,2026-02-22 18:49:10,,True,False

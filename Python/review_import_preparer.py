@@ -48,6 +48,104 @@ review_user_counter = 1
 review_user_mapping = {}
 
 
+def classify_complaint(review):
+
+    if pd.isna(review):
+        return "None"
+
+    review = review.lower()
+
+    complaint_keywords = {
+
+        "Account Access": [
+            "login", "log in", "logged in", "can't login", "cannot login",
+            "unable to login", "unable to log in", "password", "pin",
+            "otp", "verification code", "verify account",
+            "fingerprint", "face id", "biometric", "authentication",
+            "can't access", "cannot access", "account locked",
+            "sign in", "sign-in", "login failed"
+        ],
+
+        "Payment Issues": [
+            "payment", "pay", "cannot pay", "can't pay",
+            "payment failed", "payment pending",
+            "money deducted", "charged", "double charged",
+            "qr", "qr payment", "merchant", "checkout",
+            "bill payment", "purchase failed"
+        ],
+
+        "Transfer Issues": [
+            "transfer", "bank transfer", "send money",
+            "receive money", "transaction failed",
+            "transaction pending", "instant transfer",
+            "fund transfer", "cannot transfer"
+        ],
+
+        "Performance": [
+            "slow", "lag", "laggy", "freeze", "freezing",
+            "crash", "crashes", "crashing",
+            "stuck", "loading", "buffering",
+            "hang", "hanging", "black screen",
+            "white screen", "error", "bug", "glitch"
+        ],
+
+        "Cashback": [
+            "cashback", "cash back",
+            "cashback missing",
+            "cashback not received",
+            "cashback not credited"
+        ],
+
+        "Rewards": [
+            "reward", "reward points",
+            "points", "voucher",
+            "bonus", "redeem"
+        ],
+
+        "Verification": [
+            "verify", "verification",
+            "kyc", "identity",
+            "documents", "document verification"
+        ],
+
+        "Security": [
+            "fraud", "hack", "hacked",
+            "scam", "unsafe",
+            "security", "stolen"
+        ],
+
+        "Customer Support": [
+            "customer service",
+            "customer support",
+            "support",
+            "help centre",
+            "help center",
+            "hotline",
+            "email support",
+            "no response",
+            "no reply"
+        ],
+
+        "UI / UX": [
+            "interface",
+            "ui",
+            "ux",
+            "layout",
+            "design",
+            "navigation"
+        ]
+    }
+
+    for category, keywords in complaint_keywords.items():
+
+        if any(keyword in review for keyword in keywords):
+
+            return category
+
+    return "Other"
+
+
+
 
 for wallet in WALLETS:
 
@@ -69,7 +167,17 @@ for wallet in WALLETS:
 
     df.loc[df["negative_review"], "sentiment"] = "Negative"
 
-    df["complaint_category"] = "General"
+    df["complaint_category"] = "None"
+
+    negative_mask = df["sentiment"] == "Negative"
+
+    df.loc[
+        negative_mask,
+        "complaint_category"
+    ] = df.loc[
+        negative_mask,
+        "review_text"
+    ].apply(classify_complaint)
 
     review_user_ids = []
 
