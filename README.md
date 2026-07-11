@@ -1,6 +1,6 @@
 # 💳 WalletWatch
 
-An end-to-end **Data Analytics** project that analyzes Malaysian digital wallet transactions and customer reviews using **PostgreSQL, SQL, Python, Power BI, Excel, Git, and GitHub**.
+An end-to-end **Data Analytics** project that analyzes Malaysian digital wallet transactions and customer reviews using **PostgreSQL, SQL, Python, Power BI, Excel.**
 
 WalletWatch demonstrates a complete analytics workflow—from data collection and cleaning to database design, SQL analysis, and interactive business intelligence dashboards.
 
@@ -20,7 +20,7 @@ The project simulates a real-world analytics workflow and showcases database dev
 
 ![Executive Summary](Screenshots/executive_summary.png)
 
-Provides a high-level overview of wallet performance, revenue, transactions, cashback, reward points, merchant activity, payment methods, and monthly transaction trends.
+Provides an overview of wallet performance, revenue, transactions, cashback, reward points, merchant activity, payment methods, and monthly transaction trends.
 
 ---
 
@@ -290,7 +290,7 @@ Future releases will expand the dataset and introduce more advanced analytics.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Fardin Ahmed**
 
