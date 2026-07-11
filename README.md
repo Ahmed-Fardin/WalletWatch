@@ -249,9 +249,12 @@ Additional project documentation is available inside the **docs** folder.
 Included documents:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 72214e9 (Update README documentation)
+=======
+>>>>>>> 0bd8f63 (Update review dataset and dashboard improvements)
 - Review Collection Plan
 - Review Sources
 - Transaction Rules
